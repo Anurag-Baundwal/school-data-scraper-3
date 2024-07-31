@@ -1,0 +1,13 @@
+selenium
+webdriver-manager
+pandas
+google-generativeai
+requests
+asyncio
+openpyxl
+playwright
+aiohttp
+Pillow
+beautifulsoup4
+pymongo
+thefuzz
