@@ -1,4 +1,5 @@
 import asyncio
+import re
 import aiohttp
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -179,6 +180,16 @@ async def gemini_based_scraping(url, school_name, nickname):
                 result['players'] = valid_players
                 result['player_count'] = len(valid_players)
                 
+                # New validation step
+                player_years = re.findall(r'(?<![0-9])(?:Fr|So|Jr|Sr|Grad)(?![0-9])', body_text)
+                html_player_count = len(player_years)
+                
+                if html_player_count != result['player_count']:
+                    logger.warning(f"Player count mismatch for {school_name}: HTML count: {html_player_count}, Scraped count: {result['player_count']}")
+                    result['player_count_mismatch'] = True
+                else:
+                    result['player_count_mismatch'] = False
+
                 if len(valid_players) == 0:
                     result['success'] = False
                     result['reason'] = "No valid players found after validation"
@@ -186,6 +197,7 @@ async def gemini_based_scraping(url, school_name, nickname):
                 # Ensure players and player_count are set even if not present in the original response
                 result['players'] = []
                 result['player_count'] = 0
+                result['player_count_mismatch'] = False
             
             # Ensure all expected fields are present
             result.setdefault('success', False)
@@ -193,6 +205,7 @@ async def gemini_based_scraping(url, school_name, nickname):
             result.setdefault('rosterYear', None)
             result.setdefault('players', [])
             result.setdefault('player_count', 0)
+            result.setdefault('player_count_mismatch', False)
 
             return result, result['success'], input_tokens, output_tokens
         except json.JSONDecodeError as json_error:
@@ -203,7 +216,8 @@ async def gemini_based_scraping(url, school_name, nickname):
                 'reason': f"Failed to parse JSON: {str(json_error)}",
                 'rosterYear': None,
                 'players': [],
-                'player_count': 0
+                'player_count': 0,
+                'player_count_mismatch': False
             }, False, input_tokens, output_tokens
     except Exception as e:
         logger.error(f"Error in Gemini-based scraping for {school_name}: {str(e)}")
@@ -212,7 +226,8 @@ async def gemini_based_scraping(url, school_name, nickname):
             'reason': f"Error in scraping: {str(e)}",
             'rosterYear': None,
             'players': [],
-            'player_count': 0
+            'player_count': 0,
+            'player_count_mismatch': False
         }, False, 0, 0
 
 async def process_school(school_data, url_column, sheet_name):
@@ -221,18 +236,22 @@ async def process_school(school_data, url_column, sheet_name):
     nickname = school_data.get('Nickname', '')
     max_retries = 3
     base_delay = 5  # seconds
+    reasons = []
+    total_input_tokens = total_output_tokens = 0
 
     if pd.notna(url):
         for attempt in range(max_retries):
             try:
                 logger.info(f"Processing {school_name} (URL: {url}) - Attempt {attempt + 1}")
                 result, success, input_tokens, output_tokens = await gemini_based_scraping(url, school_name, nickname)
-                total_tokens = input_tokens + output_tokens
+                total_input_tokens += input_tokens
+                total_output_tokens += output_tokens
+                total_tokens = total_input_tokens + total_output_tokens
                 logger.info(f"Tokens used for {school_name} {url_column}: {total_tokens}")
                 
                 if success:
                     logger.info(f"Successfully scraped data for {school_name}")
-                    player_count = result['player_count']
+                    player_count = len(result['players'])
                     if player_count >= 35:
                         with open(f"scraping-results/{sheet_name}_urls_for_manual_review.txt", 'a') as f:
                             f.write(f"{school_name}: {url} - {player_count} players\n")
@@ -244,17 +263,21 @@ async def process_school(school_data, url_column, sheet_name):
                         'rosterYear': result['rosterYear'],
                         'players': result['players'],
                         'player_count': result['player_count'],
-                        'input_tokens': input_tokens,
-                        'output_tokens': output_tokens,
+                        'input_tokens': total_input_tokens,
+                        'output_tokens': total_output_tokens,
                         'total_tokens': total_tokens
                     }
                 else:
-                    logger.warning(f"Scraping failed for {school_name} - Attempt {attempt + 1}: {result['reason']}")
+                    reason = result['reason'] if result and 'reason' in result else 'Unknown error'
+                    reasons.append(f"Attempt {attempt + 1}: {reason}")
+                    logger.warning(f"Scraping failed for {school_name} - Attempt {attempt + 1}: {reason}")
                     if attempt < max_retries - 1:
                         delay = base_delay * (2 ** attempt)  # Exponential backoff
                         await asyncio.sleep(delay)
             except Exception as e:
-                logger.error(f"Error in processing {school_name}: {str(e)} - Attempt {attempt + 1}")
+                reason = f"Error: {str(e)}"
+                reasons.append(f"Attempt {attempt + 1}: {reason}")
+                logger.error(f"Error in processing {school_name}: {reason} - Attempt {attempt + 1}")
                 if attempt < max_retries - 1:
                     delay = base_delay * (2 ** attempt)  # Exponential backoff
                     await asyncio.sleep(delay)
@@ -263,12 +286,12 @@ async def process_school(school_data, url_column, sheet_name):
             'school': school_name,
             'url': url,
             'success': False,
-            'reason': result['reason'] if 'reason' in result else 'Unknown error after all retries',
+            'reason': '; '.join(reasons),
             'rosterYear': None,
             'players': [],
             'player_count': 0,
-            'input_tokens': input_tokens,
-            'output_tokens': output_tokens,
+            'input_tokens': total_input_tokens,
+            'output_tokens': total_output_tokens,
             'total_tokens': total_tokens
         }
     else:
@@ -345,6 +368,8 @@ async def main():
         xls = await load_excel_data(input_file)
         if xls is not None:
             for sheet_name in xls.sheet_names:
+                if sheet_name != "JUCO - NWAC":
+                    continue
                 logger.info(f"\nProcessing sheet: {sheet_name}")
                 df = pd.read_excel(xls, sheet_name=sheet_name)
                 _, sheet_tokens = await process_sheet(sheet_name, df)
