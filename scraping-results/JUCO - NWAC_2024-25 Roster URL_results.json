@@ -7,33 +7,33 @@
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 6827,
-    "output_tokens": 47,
-    "total_tokens": 6874
+    "input_tokens": 20481,
+    "output_tokens": 141,
+    "total_tokens": 20622
   },
   {
     "school": "Big Bend Community College",
     "url": "https://bbccvikings.com/sports/sball/2024-25/roster",
     "success": false,
-    "reason": "Attempt 1: No valid players found after validation; Attempt 2: Failed to parse JSON: Expecting property name enclosed in double quotes: line 993 column 26 (char 29003); Attempt 3: Failed to parse JSON: Expecting value: line 987 column 26 (char 28829)",
+    "reason": "Attempt 1: No valid players found after validation; Attempt 2: Failed to parse JSON: Unterminated string starting at: line 1000 column 13 (char 29100); Attempt 3: No valid players found after validation",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 23075,
-    "output_tokens": 8192,
-    "total_tokens": 31267
+    "input_tokens": 69218,
+    "output_tokens": 18685,
+    "total_tokens": 87903
   },
   {
     "school": "Blue Mountain Community College",
     "url": "https://bmcctimberwolves.com/sports/sball/2024-25/roster",
     "success": false,
-    "reason": "Attempt 1: Failed to parse JSON: Expecting property name enclosed in double quotes: line 979 column 38 (char 27779); Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
+    "reason": "Attempt 1: No valid players found after validation; Attempt 2: Failed to parse JSON: Expecting value: line 961 column 20 (char 27474); Attempt 3: Failed to parse JSON: Unterminated string starting at: line 979 column 13 (char 27734)",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 21470,
-    "output_tokens": 5727,
-    "total_tokens": 27197
+    "input_tokens": 64410,
+    "output_tokens": 23746,
+    "total_tokens": 88156
   },
   {
     "school": "Centralia College",
@@ -43,21 +43,21 @@
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 24111,
-    "output_tokens": 444,
-    "total_tokens": 24555
+    "input_tokens": 72329,
+    "output_tokens": 1332,
+    "total_tokens": 73661
   },
   {
     "school": "Chemeketa Community College",
     "url": "https://www.chemeketa.edu/athletics/softball/",
     "success": false,
-    "reason": "Attempt 1: Unknown error; Attempt 2: Unknown error; Attempt 3: Unknown error",
+    "reason": "Attempt 1: Roster year could not be determined.; Attempt 2: Roster year cannot be determined; Attempt 3: Roster year could not be determined.",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 0,
-    "output_tokens": 0,
-    "total_tokens": 0
+    "input_tokens": 386727,
+    "output_tokens": 125,
+    "total_tokens": 386852
   },
   {
     "school": "Clackamas Community College",
@@ -79,9 +79,9 @@
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 69457,
-    "output_tokens": 4511,
-    "total_tokens": 73968
+    "input_tokens": 208389,
+    "output_tokens": 7711,
+    "total_tokens": 216100
   },
   {
     "school": "Columbia Basin College",
@@ -127,7 +127,7 @@
         "year": "So.",
         "hometown": "Caldwell, ID",
         "highSchool": "Caldwell",
-        "graduationYear": 2025
+        "graduationYear": 2026
       },
       {
         "name": "Kaylie Christopher",
@@ -143,7 +143,7 @@
         "year": "So.",
         "hometown": "Hayden, ID",
         "highSchool": "Coeur d'Alene",
-        "graduationYear": 2025
+        "graduationYear": 2026
       },
       {
         "name": "Hailey Ruckle",
@@ -199,7 +199,7 @@
         "year": "So.",
         "hometown": "West Richland, WA",
         "highSchool": "Richland",
-        "graduationYear": 2025
+        "graduationYear": 2026
       },
       {
         "name": "Raquel Palmeira",
@@ -219,9 +219,9 @@
       }
     ],
     "player_count": 16,
-    "input_tokens": 91830,
-    "output_tokens": 1115,
-    "total_tokens": 92945
+    "input_tokens": 91801,
+    "output_tokens": 982,
+    "total_tokens": 92783
   },
   {
     "school": "Community Colleges of Spokane",
@@ -231,21 +231,21 @@
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 13909,
-    "output_tokens": 1344,
-    "total_tokens": 15253
+    "input_tokens": 41585,
+    "output_tokens": 3841,
+    "total_tokens": 45426
   },
   {
     "school": "Douglas College",
     "url": "https://douglascollegeroyals.ca/sports/sball/2024-25/roster",
     "success": false,
-    "reason": "Attempt 1: Missing player data; Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
+    "reason": "Attempt 1: No valid players found after validation; Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 9959,
-    "output_tokens": 40,
-    "total_tokens": 9999
+    "input_tokens": 29881,
+    "output_tokens": 120,
+    "total_tokens": 30001
   },
   {
     "school": "Edmonds College",
@@ -280,7 +280,7 @@
       {
         "name": "Alexis Cudaback",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Caldwell, ID",
         "highSchool": "Notus High School",
         "graduationYear": 2027
@@ -288,7 +288,7 @@
       {
         "name": "Naomi Chavez",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Longview, WA",
         "highSchool": "Toutle Lake High School",
         "graduationYear": 2027
@@ -296,7 +296,7 @@
       {
         "name": "Cayleigh  White",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Vancouver, WA",
         "highSchool": "Heritage, WA",
         "graduationYear": 2027
@@ -304,7 +304,7 @@
       {
         "name": "Madison Erickson",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Spanaway, WA",
         "highSchool": "Bethel High School",
         "graduationYear": 2027
@@ -312,7 +312,7 @@
       {
         "name": "Kylee Espinoza",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Salt Lake City, UT",
         "highSchool": "West High School",
         "graduationYear": 2027
@@ -320,7 +320,7 @@
       {
         "name": "Ciara Mennitto",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Spanaway, WA",
         "highSchool": "Spanaway Lake High School",
         "graduationYear": 2027
@@ -328,7 +328,7 @@
       {
         "name": "Carron Blood",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Hoquiam, WA",
         "highSchool": "Hoquiam High School",
         "graduationYear": 2027
@@ -336,7 +336,7 @@
       {
         "name": "Reese Wiseman",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Prince George, BC",
         "highSchool": "College Heights Secondary School",
         "graduationYear": 2027
@@ -344,7 +344,7 @@
       {
         "name": "Desiree Becherer",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Oak Harbor, WA",
         "highSchool": "Oak Harbor High School",
         "graduationYear": 2027
@@ -352,7 +352,7 @@
       {
         "name": "Ronni Graham",
         "position": "",
-        "year": "Jr.",
+        "year": "Junior",
         "hometown": "Ocosta, WA",
         "highSchool": "Ocosta High School",
         "graduationYear": 2025
@@ -360,7 +360,7 @@
       {
         "name": "Riley Wheaton",
         "position": "",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Edmonds, WA",
         "highSchool": "Shorewood High School",
         "graduationYear": 2027
@@ -368,7 +368,7 @@
       {
         "name": "Kaitlyn Doucette",
         "position": "",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Quesnel, BC",
         "highSchool": "Correlieu Secondary School",
         "graduationYear": 2026
@@ -376,28 +376,28 @@
       {
         "name": "Monica Davis",
         "position": "",
-        "year": "Rs.",
+        "year": "Redshirt",
         "hometown": "Lacey, WA",
         "highSchool": "River Ridge High School",
         "graduationYear": 2025
       }
     ],
     "player_count": 13,
-    "input_tokens": 92625,
-    "output_tokens": 892,
-    "total_tokens": 93517
+    "input_tokens": 92592,
+    "output_tokens": 893,
+    "total_tokens": 93485
   },
   {
     "school": "Highline College",
     "url": "https://highlineathletics.com/sports/softball/roster",
     "success": false,
-    "reason": "Attempt 1: No valid players found after validation; Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
+    "reason": "Attempt 1: Failed to parse JSON: Unterminated string starting at: line 992 column 13 (char 29686); Attempt 2: Failed to parse JSON: Expecting value: line 1175 column 8 (char 20338); Attempt 3: Failed to parse JSON: Expecting value: line 1177 column 8 (char 20145)",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 42654,
-    "output_tokens": 5005,
-    "total_tokens": 47659
+    "input_tokens": 128005,
+    "output_tokens": 24576,
+    "total_tokens": 152581
   },
   {
     "school": "Lower Columbia College",
@@ -551,9 +551,9 @@
       }
     ],
     "player_count": 18,
-    "input_tokens": 108102,
+    "input_tokens": 108116,
     "output_tokens": 1264,
-    "total_tokens": 109366
+    "total_tokens": 109380
   },
   {
     "school": "Mt. Hood Community College",
@@ -575,9 +575,9 @@
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 26429,
-    "output_tokens": 40,
-    "total_tokens": 26469
+    "input_tokens": 79299,
+    "output_tokens": 120,
+    "total_tokens": 79419
   },
   {
     "school": "Olympic College",
@@ -606,14 +606,102 @@
   {
     "school": "Shoreline Community College",
     "url": "https://www.shoreline.edu/athletics/softball/",
-    "success": false,
-    "reason": "Attempt 1: Error in scraping: 'NoneType' object has no attribute 'lower'; Attempt 2: Error in scraping: 'NoneType' object has no attribute 'lower'; Attempt 3: Error in scraping: 'NoneType' object has no attribute 'lower'",
-    "rosterYear": null,
-    "players": [],
-    "player_count": 0,
-    "input_tokens": 0,
-    "output_tokens": 0,
-    "total_tokens": 0
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Marissa Medina",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Brewster, WA",
+        "highSchool": "Brewster",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Nicole Nagamatsu",
+        "position": "2B",
+        "year": "SO",
+        "hometown": "Shoreline, WA",
+        "highSchool": "Shoreview",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Jacey Cotter",
+        "position": "C",
+        "year": "FR",
+        "hometown": "Graham, WA",
+        "highSchool": "Bethel",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alana Nagata",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Kaneohe, HI",
+        "highSchool": "University Laboratory",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Mailana Mattos",
+        "position": "SS",
+        "year": "FR",
+        "hometown": "Aiea, HI",
+        "highSchool": "Radford",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Kyra Brown",
+        "position": "3B",
+        "year": "FR",
+        "hometown": "University Place",
+        "highSchool": "Steilacoom",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Taimane Faleafine-Auwae",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Lahaina, HI",
+        "highSchool": "Maryknoll",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Sarah Anderson",
+        "position": "1B",
+        "year": "SO",
+        "hometown": "Everett, WA",
+        "highSchool": "Cascade",
+        "graduationYear": 2026
+      },
+      {
+        "name": "Alicia Suggs",
+        "position": "P",
+        "year": "FR",
+        "hometown": null,
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jade Relkoff",
+        "position": "OF",
+        "year": "FR",
+        "hometown": "Monroe, WA",
+        "highSchool": "Monroe",
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ceana Ehni",
+        "position": "P",
+        "year": "FR",
+        "hometown": "Snohomish, WA",
+        "highSchool": "Monroe",
+        "graduationYear": 2027
+      }
+    ],
+    "player_count": 11,
+    "input_tokens": 44797,
+    "output_tokens": 765,
+    "total_tokens": 45562
   },
   {
     "school": "Skagit Valley College",
@@ -743,9 +831,9 @@
       }
     ],
     "player_count": 15,
-    "input_tokens": 76115,
-    "output_tokens": 1109,
-    "total_tokens": 77224
+    "input_tokens": 76107,
+    "output_tokens": 984,
+    "total_tokens": 77091
   },
   {
     "school": "Southwestern Oregon Community College",
@@ -915,9 +1003,9 @@
       }
     ],
     "player_count": 20,
-    "input_tokens": 154369,
+    "input_tokens": 154351,
     "output_tokens": 1405,
-    "total_tokens": 155774
+    "total_tokens": 155756
   },
   {
     "school": "Treasure Valley Community College",
@@ -946,14 +1034,142 @@
   {
     "school": "Wenatchee Valley College",
     "url": "https://gowvc.com/sports/softball/roster",
-    "success": false,
-    "reason": "Attempt 1: Error in scraping: 'NoneType' object has no attribute 'lower'; Attempt 2: Error in scraping: 'NoneType' object has no attribute 'lower'; Attempt 3: Error in scraping: 'NoneType' object has no attribute 'lower'",
-    "rosterYear": null,
-    "players": [],
-    "player_count": 0,
-    "input_tokens": 0,
-    "output_tokens": 0,
-    "total_tokens": 0
+    "success": true,
+    "rosterYear": 2024,
+    "players": [
+      {
+        "name": "Sophie Berning",
+        "position": "Catcher",
+        "year": "Fr.",
+        "hometown": "Stevensville, MT",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alix Bishop",
+        "position": "Pitcher & Third Base",
+        "year": "Fr.",
+        "hometown": "Rigby, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Erin Bishop",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Rigby, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Aaliyah Marchand",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Coulee City, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Hailey South",
+        "position": "Short Stop",
+        "year": "Fr.",
+        "hometown": "Hermiston, OR",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Emma Warman",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Leavenworth, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Giselle Kump",
+        "position": "Pitcher",
+        "year": "Fr.",
+        "hometown": "Idaho Falls, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Ashlynn Lott",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Idaho Falls, ID",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Brynn Reedy",
+        "position": "Pitcher",
+        "year": "Fr.",
+        "hometown": "West Jordan, UT",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Megan Smit",
+        "position": "Outfield",
+        "year": "So.",
+        "hometown": "Lynnwood, WA",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Kaya Enriquez",
+        "position": "Catcher",
+        "year": "So.",
+        "hometown": "Warden, WA",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Gabby Krueger",
+        "position": "Outfield",
+        "year": "So.",
+        "hometown": "Corvallis, MT",
+        "highSchool": null,
+        "graduationYear": 2026
+      },
+      {
+        "name": "Laine Morgan",
+        "position": "Outfield",
+        "year": "Fr.",
+        "hometown": "Okanogan, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Jazlynn Valdez-Torres",
+        "position": "Infield",
+        "year": "Fr.",
+        "hometown": "Moses Lake, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Alexsus Leinweber",
+        "position": "First Base",
+        "year": "Fr.",
+        "hometown": "Warden, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      },
+      {
+        "name": "Harlie Zones",
+        "position": null,
+        "year": "Fr.",
+        "hometown": "Waterville, WA",
+        "highSchool": null,
+        "graduationYear": 2027
+      }
+    ],
+    "player_count": 16,
+    "input_tokens": 70638,
+    "output_tokens": 939,
+    "total_tokens": 71577
   },
   {
     "school": "Yakima Valley College",
@@ -1091,8 +1307,8 @@
       }
     ],
     "player_count": 16,
-    "input_tokens": 85818,
-    "output_tokens": 965,
-    "total_tokens": 86783
+    "input_tokens": 85804,
+    "output_tokens": 1098,
+    "total_tokens": 86902
   }
 ]
