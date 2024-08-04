@@ -1,0 +1,16 @@
+summary:
+overall results - how many failed and for how many urls we scraped successfully
+list of urls for which it failed 
+..
+
+
+change tracking:
+which urls broke
+which urls got updated/fixed
+coaches - *new hires* and those who left ...
+students - who graduated?
+majors - any new majors being offered
+
+mongod - direct access 
+
+api - not needed 
