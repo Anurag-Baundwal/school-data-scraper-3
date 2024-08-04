@@ -12,7 +12,7 @@ import logging
 from datetime import datetime
 import os
 from urllib.parse import urlparse
-from thefuzz import fuzz
+from fuzzywuzzy import fuzz
 import json5
 import ssl
 
@@ -25,6 +25,62 @@ file_handler = logging.FileHandler('debug.log')
 file_handler.setLevel(logging.DEBUG)
 file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
 logger.addHandler(file_handler)
+
+def log_raw_gemini_output(school_name, raw_output, sheet_name):
+    # Log raw output
+    logger.debug(f"Raw Gemini output for {school_name}:\n{raw_output}")
+
+    # Save raw output to file
+    output_dir = "raw_gemini_outputs"
+    os.makedirs(output_dir, exist_ok=True)
+    file_path = os.path.join(output_dir, f"{sheet_name}_raw_gemini_outputs.txt")
+    
+    with open(file_path, "a", encoding="utf-8") as f:
+        f.write(f"Raw Gemini output for {school_name}:\n")
+        f.write(raw_output)
+        f.write("\n\n")  # Add two newlines to separate outputs
+
+    logger.info(f"Raw Gemini output for {school_name} saved to {file_path}")
+
+# useless
+def save_body_text(school_name, body_text, sheet_name):
+    # Save body text to file
+    output_dir = "body_texts"
+    os.makedirs(output_dir, exist_ok=True)
+    file_path = os.path.join(output_dir, f"{sheet_name}_body_texts.txt")
+    
+    with open(file_path, "a", encoding="utf-8") as f:
+        f.write(f"Body text for {school_name}:\n")
+        f.write(body_text)
+        f.write("\n\n")  # Add two newlines to separate outputs
+
+    logger.info(f"Body text for {school_name} saved to {file_path}")
+
+# useless
+def save_html_content(school_name, html_content, sheet_name):
+    output_dir = "html_contents"
+    os.makedirs(output_dir, exist_ok=True)
+    file_path = os.path.join(output_dir, f"{sheet_name}_html_contents.txt")
+    
+    with open(file_path, "a", encoding="utf-8") as f:
+        f.write(f"HTML content for {school_name}:\n")
+        f.write(html_content)
+        f.write("\n\n" + "="*50 + "\n\n")  # Add a separator between schools
+
+    logger.info(f"HTML content for {school_name} saved to {file_path}")
+
+
+def save_body_html_content(school_name, body_html, sheet_name):
+    output_dir = "body_html_contents"
+    os.makedirs(output_dir, exist_ok=True)
+    file_path = os.path.join(output_dir, f"{sheet_name}_body_html_contents.txt")
+    
+    with open(file_path, "a", encoding="utf-8") as f:
+        f.write(f"Body HTML content for {school_name}:\n")
+        f.write(body_html)
+        f.write("\n\n" + "="*50 + "\n\n")  # Add a separator between schools
+
+    logger.info(f"Body HTML content for {school_name} saved to {file_path}")
 
 class APIKeyManager:
     def __init__(self, api_keys):
@@ -65,26 +121,122 @@ async def load_excel_data(file_path):
         logger.error(f"Error loading Excel file: {e}")
         return None
 
-def validate_player_data(players, body_text):
+# def validate_player_data(players, body_text):
+#     valid_players = []
+#     for player in players:
+#         # Check if player name exists and is not None before calling lower()
+#         if player.get('name') and body_text:
+#             # Check if at least 70% of the player's name is found in the body text
+#             if fuzz.partial_ratio(player['name'].lower(), body_text.lower()) >= 85:
+#                 # Check if at least two other fields are found near the name
+#                 name_index = body_text.lower().find(player['name'].lower())
+#                 if name_index != -1:
+#                     surrounding_text = body_text[max(0, name_index - 10000):min(len(body_text), name_index + 10000)]
+#                     fields_found = sum(1 for field in ['position', 'year', 'hometown', 'highSchool'] 
+#                                        if player.get(field) and player[field].lower() in surrounding_text.lower())
+#                     if fields_found >= 2:
+#                         valid_players.append(player)
+#         else: 
+#             print(f"Player has no name. Data: {player}")
+#     return valid_players
+
+# def validate_player_data(players, body_text): #v2
+#     valid_players = []
+#     for player in players:
+#         if player.get('name') and body_text:
+#             # Log the fuzzy match ratio for debugging
+#             match_ratio = fuzz.partial_ratio(player['name'].lower(), body_text.lower())
+#             logger.debug(f"Fuzzy match ratio for {player['name']}: {match_ratio}")
+
+#             if match_ratio >= 85:
+#                 # Check if at least two other fields are found near the name
+#                 name_index = body_text.lower().find(player['name'].lower())
+#                 if name_index != -1:
+#                     surrounding_text = body_text[max(0, name_index - 10000):min(len(body_text), name_index + 10000)]
+#                     fields_found = sum(1 for field in ['position', 'year', 'hometown', 'highSchool'] 
+#                                        if player.get(field) and player[field].lower() in surrounding_text.lower())
+                    
+#                     # Log the number of fields found for debugging
+#                     logger.debug(f"Fields found for {player['name']}: {fields_found}")
+
+#                     if fields_found >= 2:
+#                         valid_players.append(player)
+#                     else:
+#                         logger.debug(f"Player {player['name']} rejected: Only {fields_found} fields found")
+#                 else:
+#                     logger.debug(f"Player {player['name']} rejected: Name not found in body text")
+#             else:
+#                 logger.debug(f"Player {player['name']} rejected: Fuzzy match ratio below threshold")
+#         else:
+#             logger.debug(f"Player rejected: Missing name or body text. Player data: {player}")
+    
+#     logger.info(f"Total players: {len(players)}, Valid players: {len(valid_players)}")
+#     return valid_players
+
+def validate_player_data(players, body_html):
     valid_players = []
+    body_html_lowercasecase = body_html.lower()
+    
     for player in players:
-        # Check if player name exists and is not None before calling lower()
-        if player.get('name') and body_text:
-            # Check if at least 70% of the player's name is found in the body text
-            if fuzz.partial_ratio(player['name'].lower(), body_text.lower()) >= 85:
+        if player.get('name') and body_html:
+            name_lowercase = player['name'].lower()
+            
+            # First, try an exact match (case-insensitive)
+            if player['name'] in body_html:
+                logger.debug(f"Exact match found for {player['name']}")
+                valid_players.append(player)
+                continue
+
+            # If no exact match, try fuzzy matching
+            match_ratio = fuzz.partial_ratio(name_lowercase, body_html_lowercasecase)
+            logger.debug(f"Fuzzy match ratio for {player['name']}: {match_ratio}")
+
+            if match_ratio >= 85:
                 # Check if at least two other fields are found near the name
-                name_index = body_text.lower().find(player['name'].lower())
+                name_index = body_html_lowercasecase.find(name_lowercase)
                 if name_index != -1:
-                    surrounding_text = body_text[max(0, name_index - 10000):min(len(body_text), name_index + 10000)]
+                    surrounding_text = body_html_lowercasecase[max(0, name_index - 10000):min(len(body_html_lowercasecase), name_index + 10000)]
                     fields_found = sum(1 for field in ['position', 'year', 'hometown', 'highSchool'] 
-                                       if player.get(field) and player[field].lower() in surrounding_text.lower())
+                                       if player.get(field) and str(player[field]).lower() in surrounding_text)
+                    
+                    logger.debug(f"Fields found for {player['name']}: {fields_found}")
+
                     if fields_found >= 2:
                         valid_players.append(player)
-        else: 
-            print(f"Player has no name. Data: {player}")
+                    else:
+                        logger.debug(f"Player {player['name']} rejected: Only {fields_found} fields found")
+                else:
+                    logger.debug(f"Player {player['name']} rejected: Name not found in body text")
+            else:
+                logger.debug(f"Player {player['name']} rejected: Fuzzy match ratio below threshold")
+        else:
+            logger.debug(f"Player rejected: Missing name or body text. Player data: {player}")
+    
+    logger.info(f"Total players: {len(players)}, Valid players: {len(valid_players)}")
     return valid_players
 
-async def gemini_based_scraping(url, school_name, nickname):
+
+async def fetch_with_retry(session, url, headers, ssl_context, max_retries=3):
+    for attempt in range(max_retries):
+        try:
+            async with session.get(url, headers=headers, ssl=ssl_context) as response:
+                if response.status == 200:
+                    return await response.text()
+                elif response.status == 525:
+                    logger.warning(f"SSL Handshake Failed (Error 525) for {url}. Retrying in 2 seconds...")
+                    await asyncio.sleep(2)
+                else:
+                    logger.warning(f"Failed to fetch {url}. Status code: {response.status}")
+                    return None
+        except Exception as e:
+            logger.error(f"Error fetching {url}: {str(e)}")
+            if attempt < max_retries - 1:
+                await asyncio.sleep(2)
+            else:
+                return None
+    return None
+
+async def gemini_based_scraping(url, school_name, nickname, sheet_name):
     user_agents = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15',
@@ -105,7 +257,9 @@ async def gemini_based_scraping(url, school_name, nickname):
                     if body is None:
                         logger.warning(f"No body tag found in the HTML from {url}")
                         return None, False, 0, 0
-                    body_text = body.get_text()
+                    body_html = str(body)
+                    # Save the body HTML content
+                    save_body_html_content(school_name, body_html, sheet_name)
                 else:
                     logger.warning(f"Failed to fetch {url}. Status code: {response.status}")
                     return None, False, 0, 0
@@ -135,7 +289,7 @@ async def gemini_based_scraping(url, school_name, nickname):
         - Hometown
         - High School
         - Graduation Year (calculate based on the player's year and the roster year)
-        Determine the roster year. Look for an explicit mention of the roster year on the page (e.g., "2024 Softball Roster"). If not found, assume it's for the upcoming season ({current_year + 1}).
+        Determine the roster year. Look for an explicit mention of the roster year on the page (e.g., "2024 Softball Roster"). If not found, assume it's for the upcoming season ({current_year + 1}). Also, if the roster year consists of a range then it's the first year in the range (e.g.,  "2024-2025 Softball Roster" means that the current roster year is 2024).
         For the Graduation Year calculation, use the determined roster year as the base:
         - Freshman (Fr) or First Year: Roster Year + 3
         - Sophomore (So) or Second Year: Roster Year + 2
@@ -167,14 +321,18 @@ async def gemini_based_scraping(url, school_name, nickname):
         If "success" is false, provide a brief explanation in the "reason" field.
         Important: Ensure all names, including those with non-English characters, are preserved exactly as they appear in the HTML. Do not escape or modify any special characters in names, hometowns, or school names. For example, 'Montañez' should remain as 'Montañez', not 'Monta\\u00f1ez', and "O'ahu" should remain as "O'ahu", not "O\\u2018ahu".
         The response should be a valid JSON string only, without any additional formatting or markdown syntax.
+        Note: If no player data is found on the page, do not create any imaginary players or list players that are not present on the page. Instead, set the 'success' field to false and provide a reason indicating that no players were found on the roster page.
         """
 
-        token_response = model.count_tokens(prompt + str(body))
+        token_response = model.count_tokens(prompt + body_html)
         input_tokens = token_response.total_tokens
 
-        response = await model.generate_content_async([prompt, str(body)])
+        response = await model.generate_content_async([prompt, body_html])
         
         output_tokens = model.count_tokens(response.text).total_tokens
+
+        # Log the raw output immediately after receiving it
+        log_raw_gemini_output(school_name, response.text, sheet_name)
 
         # Clean the response text
         cleaned_response = response.text.strip()
@@ -190,26 +348,12 @@ async def gemini_based_scraping(url, school_name, nickname):
             
             # Validate the player data
             if result['success'] and 'players' in result:
-                valid_players = validate_player_data(result['players'], body_text)
+                valid_players = validate_player_data(result['players'], body_html)
                 result['players'] = valid_players
                 result['player_count'] = len(valid_players)
-                
-                # New validation step
-                # player_years = re.findall(r'(?<![0-9])(?:Fr|So|Jr|Sr|Grad|Fresher|Sophomore|Junior|Senior|Graduate)(?![0-9])', body_text)
-                # player_years = re.findall(r'(?<![0-9])(?:fr|so|jr|sr|grad|fresher|sophomore|junior|senior|graduate)\.?', body_text, re.IGNORECASE)
-                
-                # player_years = re.findall(r'(?<![0-9])(?:Fr|So|Jr|Sr|Grad|Fresher|Sophomore|Junior|Senior|Graduate)\.?((?![0-9])', body_text)
-                
-                # player_years = re.findall(r'(?<![0-9])(?:Fr|So|Jr|Sr|Grad|Fresher|Sophomore|Junior|Senior|Graduate)\.?(?![0-9])', body_text)
+              
 
-                player_years = re.findall(r'\b(?:Fr|So|Jr|Sr|Grad|Fresher|Sophomore|Junior|Senior|Graduate)\b\.?(?![0-9])', body_text)
-                html_player_count = len(player_years) # paranthesis not matching
-                
-                if html_player_count != result['player_count']:
-                    logger.warning(f"Player count mismatch for {school_name}: HTML count: {html_player_count}, Scraped count: {result['player_count']}")
-                    result['player_count_mismatch'] = True
-                else:
-                    result['player_count_mismatch'] = False
+                result['player_count_mismatch'] = False
 
                 if len(valid_players) == 0:
                     result['success'] = False
@@ -264,7 +408,7 @@ async def process_school(school_data, url_column, sheet_name):
         for attempt in range(max_retries):
             try:
                 logger.info(f"Processing {school_name} (URL: {url}) - Attempt {attempt + 1}")
-                result, success, input_tokens, output_tokens = await gemini_based_scraping(url, school_name, nickname)
+                result, success, input_tokens, output_tokens = await gemini_based_scraping(url, school_name, nickname, sheet_name)
                 total_input_tokens += input_tokens
                 total_output_tokens += output_tokens
                 total_tokens = total_input_tokens + total_output_tokens
@@ -272,6 +416,9 @@ async def process_school(school_data, url_column, sheet_name):
                 
                 if success:
                     logger.info(f"Successfully scraped data for {school_name}")
+                    # pre_validation_players = result['players']  # Store pre-validation players
+                    # valid_players = validate_player_data(result['players'], result['body_text'])
+                    # player_count = len(valid_players)
                     player_count = len(result['players'])
                     if player_count >= 35:
                         with open(f"scraping-results/{sheet_name}_urls_for_manual_review.txt", 'a') as f:
@@ -281,7 +428,11 @@ async def process_school(school_data, url_column, sheet_name):
                         'school': school_name,
                         'url': url,
                         'success': True,
+                        'reason': None,  # Set to None when successful
                         'rosterYear': result['rosterYear'],
+                        # 'players': valid_players,
+                        # 'pre_validation_players': pre_validation_players,  # Add this line
+                        # 'player_count': player_count,
                         'players': result['players'],
                         'player_count': result['player_count'],
                         'input_tokens': total_input_tokens,
@@ -310,6 +461,7 @@ async def process_school(school_data, url_column, sheet_name):
             'reason': '; '.join(reasons),
             'rosterYear': None,
             'players': [],
+            # 'pre_validation_players': [],  # Add this line for consistency
             'player_count': 0,
             'input_tokens': total_input_tokens,
             'output_tokens': total_output_tokens,
@@ -324,6 +476,7 @@ async def process_school(school_data, url_column, sheet_name):
             'reason': 'No URL provided',
             'rosterYear': None,
             'players': [],
+            # 'pre_validation_players': [],  # Add this line for consistency
             'player_count': 0,
             'input_tokens': 0,
             'output_tokens': 0,

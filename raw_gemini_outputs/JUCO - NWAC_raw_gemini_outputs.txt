@@ -1,0 +1,7270 @@
+Raw Gemini output for Bellevue College:
+```json
+{
+"success": false,
+"reason": "No player data found on the roster page.",
+"rosterYear": null,
+"players": []
+}
+```
+
+Raw Gemini output for Douglas College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for Blue Mountain Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for Centralia College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Grace Huber",
+"position": "Outfield/Pitcher",
+"year": "Sophomore",
+"hometown": "Raymond",
+"highSchool": "Willapa Valley",
+"graduationYear": 2027
+},
+{
+"name": "Graci Bonney-Spradlin",
+"position": "Short Stop",
+"year": "Sophomore",
+"hometown": "Hoquiam",
+"highSchool": "Hoquiam",
+"graduationYear": 2027
+},
+{
+"name": "Jimena Luis",
+"position": "First Base",
+"year": "Sophomore",
+"hometown": "Centralia",
+"highSchool": "Centralia",
+"graduationYear": 2027
+},
+{
+"name": "Jacie Deebach",
+"position": "Catcher",
+"year": "Sophomore",
+"hometown": "Tonasket",
+"highSchool": "Tonasket",
+"graduationYear": 2027
+},
+{
+"name": "Judy Vallejo",
+"position": "Infield",
+"year": "Sophomore",
+"hometown": "Centralia",
+"highSchool": "Centralia",
+"graduationYear": 2027
+},
+{
+"name": "Olivia McKinstry",
+"position": "First Base/Pitcher",
+"year": "Sophomore",
+"hometown": "Ilwaco",
+"highSchool": "Ilwaco",
+"graduationYear": 2027
+}
+]
+}
+```
+
+Raw Gemini output for Community Colleges of Spokane:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "McCoy, Haylee",
+"position": "2B, 3B, OF",
+"year": "Sophomore",
+"hometown": "Spokane Valley, WA",
+"highSchool": "Central Valley High School",
+"graduationYear": 2026
+},
+{
+"name": "Sefton, Dixie",
+"position": "2B, OF",
+"year": "Freshman",
+"hometown": "Fairfield, WA",
+"highSchool": "Freeman High School",
+"graduationYear": 2027
+},
+{
+"name": "McCoy, Gianna",
+"position": "SS, 2B, 3B",
+"year": "Sophomore",
+"hometown": "Spokane Valley, WA",
+"highSchool": "Central Valley High School",
+"graduationYear": 2026
+},
+{
+"name": "Graham, Reagan",
+"position": "OF, SS, 2B",
+"year": "Freshman",
+"hometown": "Nampa, ID",
+"highSchool": "Skyview High School",
+"graduationYear": 2027
+},
+{
+"name": "Stewart, Brynly",
+"position": "INF, OF",
+"year": "Freshman",
+"hometown": "Spring Creek, NV",
+"highSchool": "Spring Creek High School",
+"graduationYear": 2027
+},
+{
+"name": "Gagner, Jayden",
+"position": "P, OF",
+"year": "Freshman",
+"hometown": "Missoula, MT",
+"highSchool": "Sentinel High School",
+"graduationYear": 2027
+},
+{
+"name": "Carson, Rebecca",
+"position": "P, OF, 1B",
+"year": "Sophomore",
+"hometown": "Shoreline, WA",
+"highSchool": "Shorewood High School",
+"graduationYear": 2026
+},
+{
+"name": "Sebesta, Mia",
+"position": "OF, INF",
+"year": "Freshman",
+"hometown": "Spokane, WA",
+"highSchool": "North Central High School",
+"graduationYear": 2027
+},
+{
+"name": "Smit, Haylee",
+"position": "1B, OF, P",
+"year": "Sophomore",
+"hometown": "Rathdrum, ID",
+"highSchool": "Lakeland High School",
+"graduationYear": 2026
+},
+{
+"name": "Stephens, Jaidyn",
+"position": "P, OF, 1B",
+"year": "Sophomore",
+"hometown": "Spangle, WA",
+"highSchool": "Liberty High School",
+"graduationYear": 2026
+},
+{
+"name": "Krause, Alyssa",
+"position": "3B, C",
+"year": "Sophomore",
+"hometown": "Post Falls, ID",
+"highSchool": "Post Falls High School",
+"graduationYear": 2026
+},
+{
+"name": "Hite, Dilynn",
+"position": "C, OF",
+"year": "Freshman",
+"hometown": "Selah, WA",
+"highSchool": "Selah High School",
+"graduationYear": 2027
+},
+{
+"name": "Almquist, Willow",
+"position": "SS, OF",
+"year": "Freshman",
+"hometown": "Spokane, WA",
+"highSchool": "Mt. Spokane High School",
+"graduationYear": 2027
+},
+{
+"name": "Butterfield, Rebecca",
+"position": "P, 1B",
+"year": "Sophomore",
+"hometown": "Potlatch, ID",
+"highSchool": "Potlatch High School",
+"graduationYear": 2026
+},
+{
+"name": "Kriete, Katelyn",
+"position": "C, OF",
+"year": "Freshman",
+"hometown": "Moses Lake, WA",
+"highSchool": "Moses Lake High School",
+"graduationYear": 2027
+},
+{
+"name": "Bakken, Catherine",
+"position": "3B, 1B",
+"year": "Freshman",
+"hometown": "Spokane, WA",
+"highSchool": "Coeur d'Alene High School",
+"graduationYear": 2027
+},
+{
+"name": "Ervin, McKenzie",
+"position": "1B",
+"year": "Freshman",
+"hometown": "Newman Lake",
+"highSchool": "East Valley High School",
+"graduationYear": 2027
+},
+{
+"name": "Shaler, Alison",
+"position": "P, 1B",
+"year": "Sophomore",
+"hometown": "Deer Park, WA",
+"highSchool": "Northwest Christian",
+"graduationYear": 2026
+}
+]
+}
+```
+
+Raw Gemini output for Bellevue College:
+```json
+{
+"success": false,
+"reason": "No player data found on the roster page.",
+"rosterYear": null,
+"players": []
+}
+```
+
+Raw Gemini output for Douglas College:
+```json
+{
+    "success": false,
+    "reason": "No player data found on the roster page.",
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for Chemeketa Community College:
+```json
+{
+    "success": false,
+    "reason": "Roster year could not be determined.",
+    "rosterYear": null,
+    "players": []
+}
+```
+
+Raw Gemini output for Blue Mountain Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for North Idaho College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": []
+}
+```
+
+Raw Gemini output for Grays Harbor College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2023,
+"players": [
+{
+"name": "Alexis Cudaback",
+"position": null,
+"year": "Fr.",
+"hometown": "Caldwell, ID",
+"highSchool": "Notus High School",
+"graduationYear": 2026
+},
+{
+"name": "Naomi Chavez",
+"position": null,
+"year": "Fr.",
+"hometown": "Longview, WA",
+"highSchool": "Toutle Lake High School",
+"graduationYear": 2026
+},
+{
+"name": "Cayleigh  White",
+"position": null,
+"year": "Fr.",
+"hometown": "Vancouver, WA",
+"highSchool": "Heritage, WA",
+"graduationYear": 2026
+},
+{
+"name": "Madison Erickson",
+"position": null,
+"year": "Fr.",
+"hometown": "Spanaway, WA",
+"highSchool": "Bethel High School",
+"graduationYear": 2026
+},
+{
+"name": "Kylee Espinoza",
+"position": null,
+"year": "Fr.",
+"hometown": "Salt Lake City, UT",
+"highSchool": "West High School",
+"graduationYear": 2026
+},
+{
+"name": "Ciara Mennitto",
+"position": null,
+"year": "Fr.",
+"hometown": "Spanaway, WA",
+"highSchool": "Spanaway Lake High School",
+"graduationYear": 2026
+},
+{
+"name": "Carron Blood",
+"position": null,
+"year": "Fr.",
+"hometown": "Hoquiam, WA",
+"highSchool": "Hoquiam High School",
+"graduationYear": 2026
+},
+{
+"name": "Reese Wiseman",
+"position": null,
+"year": "Fr.",
+"hometown": "Prince George, BC",
+"highSchool": "College Heights Secondary School",
+"graduationYear": 2026
+},
+{
+"name": "Desiree Becherer",
+"position": null,
+"year": "Fr.",
+"hometown": "Oak Harbor, WA",
+"highSchool": "Oak Harbor High School",
+"graduationYear": 2026
+},
+{
+"name": "Ronni Graham",
+"position": null,
+"year": "Jr.",
+"hometown": "Ocosta, WA",
+"highSchool": "Ocosta High School",
+"graduationYear": 2024
+},
+{
+"name": "Riley Wheaton",
+"position": null,
+"year": "Fr.",
+"hometown": "Edmonds, WA",
+"highSchool": "Shorewood High School",
+"graduationYear": 2026
+},
+{
+"name": "Kaitlyn Doucette",
+"position": null,
+"year": "So.",
+"hometown": "Quesnel, BC",
+"highSchool": "Correlieu Secondary School",
+"graduationYear": 2025
+},
+{
+"name": "Monica Davis",
+"position": null,
+"year": "Rs.",
+"hometown": "Lacey, WA",
+"highSchool": "River Ridge High School",
+"graduationYear": 2024
+}
+]
+}
+```
+
+Raw Gemini output for Douglas College:
+```json
+{
+    "success": false,
+    "reason": "No player data found on the roster page.",
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for Columbia Basin College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Naomi Peterson",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Stanwood, WA",
+"highSchool": "Arlington",
+"graduationYear": 2027
+},
+{
+"name": "Vivian Pimentel",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Pasco, WA",
+"highSchool": "Pasco",
+"graduationYear": 2027
+},
+{
+"name": "Keila Garcia",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Pasco, WA",
+"highSchool": "Pasco",
+"graduationYear": 2027
+},
+{
+"name": "Bree Waldron",
+"position": "Catcher",
+"year": "Fr.",
+"hometown": "Spokane, WA",
+"highSchool": "Riverside",
+"graduationYear": 2027
+},
+{
+"name": "Stephanie Bryson",
+"position": "Outfielder",
+"year": "So.",
+"hometown": "Caldwell, ID",
+"highSchool": "Caldwell",
+"graduationYear": 2026
+},
+{
+"name": "Kaylie Christopher",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Happy Valley, OR",
+"highSchool": "Adrienne C. Nelson",
+"graduationYear": 2027
+},
+{
+"name": "Alexis Blankenship",
+"position": "Infielder",
+"year": "So.",
+"hometown": "Hayden, ID",
+"highSchool": "Coeur d'Alene",
+"graduationYear": 2026
+},
+{
+"name": "Hailey Ruckle",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Lakebay, WA",
+"highSchool": "Henderson Bay",
+"graduationYear": 2027
+},
+{
+"name": "Sami Stark",
+"position": "Outfielder",
+"year": "Fr.",
+"hometown": "Sedro-Woolley, WA",
+"highSchool": "Sedro-Woolley",
+"graduationYear": 2027
+},
+{
+"name": "Payton Dressler",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Spokane, WA",
+"highSchool": "Mt. Spokane",
+"graduationYear": 2027
+},
+{
+"name": "Leia Duropan",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Waianae, HI",
+"highSchool": "James Campbell",
+"graduationYear": 2027
+},
+{
+"name": "Anna-Marie Shaffer",
+"position": "Pitcher",
+"year": "Fr.",
+"hometown": "Kennewick, WA",
+"highSchool": "Kamiakin",
+"graduationYear": 2027
+},
+{
+"name": "Lauryn Krick",
+"position": "Pitcher",
+"year": "Fr.",
+"hometown": "Tacoma, WA",
+"highSchool": "Puyallup",
+"graduationYear": 2027
+},
+{
+"name": "Bailey Hausenbuiller",
+"position": "Pitcher",
+"year": "So.",
+"hometown": "West Richland, WA",
+"highSchool": "Richland",
+"graduationYear": 2026
+},
+{
+"name": "Raquel Palmeira",
+"position": "Outfielder",
+"year": "Fr.",
+"hometown": "Kahului, HI",
+"highSchool": "HP Baldwin",
+"graduationYear": 2027
+},
+{
+"name": "Sierra Escalera",
+"position": "Pitcher",
+"year": "Fr.",
+"hometown": "Nampa, ID",
+"highSchool": "Ridgevue",
+"graduationYear": 2027
+}
+]
+}
+```
+
+Raw Gemini output for Big Bend Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": [
+        {
+            "name": "Abeyta, Alyssa",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Acosta, Brianna",
+            "position": "C",
+            "year": "So",
+            "hometown": "Pasco, WA",
+            "highSchool": "Chiawana",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Alvarez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Anderson, Taylor",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Armenta, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Barajas, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Barajas, Jazmine",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Barajas, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Barrera, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Beltran, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Benitez, Samantha",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Bermudez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Botello, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Brown, Madison",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Cabrera, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Cantu, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Carbajal, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Carrillo, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Castillo, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Cervantes, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Chavez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Cisneros, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Contreras, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Cordova, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Cortez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Cruz, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "De La Cruz, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Delgado, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Diaz, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Dominguez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Estrada, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Fernandez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Flores, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Garcia, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Garcia, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Garza, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Gonzalez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Guerrero, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Hernandez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Jimenez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Johnson, Madison",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Juarez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Lopez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Lopez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Luna, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Macias, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Maldonado, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Martinez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Martinez, Jazmine",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Mendoza, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Mercado, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Miranda, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Monarrez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Montañez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Moreno, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Munoz, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Nava, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Navarro, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Nieves, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Noriega, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Ochoa, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Olvera, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Ortiz, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Padilla, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Perez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Ponce, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Ramirez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Reyes, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Rodriguez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Rodriguez, Jazmine",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Romero, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Salas, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Sanchez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Sanchez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Santiago, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Santos, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Serrano, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Silva, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Smith, Madison",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Soto, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Torres, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Valdez, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Vasquez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Vega, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Velasquez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Villarreal, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Villanueva, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Wilson, Madison",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Yanez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Zapata, Ashley",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2027
+        }
+    ]
+}
+```
+
+Raw Gemini output for Bellevue College:
+```json
+{
+"success": false,
+"reason": "No player data found on the roster page.",
+"rosterYear": null,
+"players": []
+}
+```
+
+Raw Gemini output for North Idaho College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": []
+}
+```
+
+Raw Gemini output for Chemeketa Community College:
+```json
+{
+    "success": false,
+    "reason": "Roster year could not be determined.",
+    "rosterYear": null,
+    "players": []
+}
+```
+
+Raw Gemini output for Blue Mountain Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for Lower Columbia College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Ella Dillon",
+"position": "Outfield",
+"year": "So.",
+"hometown": "Sumner, WA",
+"highSchool": "Sumner",
+"graduationYear": 2027
+},
+{
+"name": "Leanna Russell",
+"position": "Infield",
+"year": "So.",
+"hometown": "Woodland, WA",
+"highSchool": "Woodland",
+"graduationYear": 2027
+},
+{
+"name": "Sadie Knutson",
+"position": "Pitcher/Infield",
+"year": "So.",
+"hometown": "Rochester, WA",
+"highSchool": "Rochester",
+"graduationYear": 2027
+},
+{
+"name": "Maliyah Twitty",
+"position": "Outfield",
+"year": "So.",
+"hometown": "Pasco, WA",
+"highSchool": "Chiawana",
+"graduationYear": 2027
+},
+{
+"name": "Allison Baumgart",
+"position": "Infield",
+"year": "Fr.",
+"hometown": "Shelton, WA",
+"highSchool": "Shelton",
+"graduationYear": 2028
+},
+{
+"name": "Katelyn Swanson",
+"position": "Infield",
+"year": "Fr.",
+"hometown": "Battle Ground, WA",
+"highSchool": "Battle Ground",
+"graduationYear": 2028
+},
+{
+"name": "Teeghan Reams",
+"position": "Catcher/Pitcher/Infield",
+"year": "So.",
+"hometown": "Redmond, OR",
+"highSchool": "Ridgeview",
+"graduationYear": 2027
+},
+{
+"name": "Sawyer Stenson",
+"position": "Catcher / Infield",
+"year": "So.",
+"hometown": "Pasco, WA",
+"highSchool": "Chiawana",
+"graduationYear": 2027
+},
+{
+"name": "Karlee VonMoos",
+"position": "Infield",
+"year": "Fr.",
+"hometown": "Adna, WA",
+"highSchool": "Adna",
+"graduationYear": 2028
+},
+{
+"name": "Bella Aspaas",
+"position": "Infield",
+"year": "So.",
+"hometown": "Brush Prairie, WA",
+"highSchool": "Hockinson",
+"graduationYear": 2027
+},
+{
+"name": "Brooklyn Loose",
+"position": "Catcher/Outfield",
+"year": "Fr.",
+"hometown": "Adna, WA",
+"highSchool": "Adna",
+"graduationYear": 2028
+},
+{
+"name": "Alexis Moore",
+"position": "Pitcher/Utility",
+"year": "Fr.",
+"hometown": "Anchorage, AK",
+"highSchool": "South Anchorage",
+"graduationYear": 2028
+},
+{
+"name": "Kaydence Mackin",
+"position": "Pitcher/Outfield",
+"year": "Fr.",
+"hometown": "Kelso, WA",
+"highSchool": "Kelso",
+"graduationYear": 2028
+},
+{
+"name": "Alexis Keaveny",
+"position": "Utility",
+"year": "Fr.",
+"hometown": "Anchorage, AK",
+"highSchool": "South Anchorage",
+"graduationYear": 2028
+},
+{
+"name": "Joelie Eder",
+"position": "Outfield",
+"year": "Fr.",
+"hometown": "Kennewick, WA",
+"highSchool": "Kamiakin",
+"graduationYear": 2028
+},
+{
+"name": "Lexi Grumbois",
+"position": "Infield",
+"year": "Fr.",
+"hometown": "Kelso, WA",
+"highSchool": "Kelso",
+"graduationYear": 2028
+},
+{
+"name": "Raychel Squibb",
+"position": "Catcher / Infield",
+"year": "So.",
+"hometown": "Winlock, WA",
+"highSchool": "Castle Rock",
+"graduationYear": 2027
+},
+{
+"name": "Alli Heater",
+"position": "Pitcher / First Base",
+"year": "So.",
+"hometown": "Yakima, WA",
+"highSchool": "East Valley",
+"graduationYear": 2027
+}
+]
+}
+```
+
+Raw Gemini output for Shoreline Community College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Marissa Medina",
+"position": "OF",
+"year": "FR",
+"hometown": "Brewster, WA",
+"highSchool": "Brewster",
+"graduationYear": 2027
+},
+{
+"name": "Nicole Nagamatsu",
+"position": "2B",
+"year": "SO",
+"hometown": "Shoreline, WA",
+"highSchool": "Shoreview",
+"graduationYear": 2026
+},
+{
+"name": "Jacey Cotter",
+"position": "C",
+"year": "FR",
+"hometown": "Graham, WA",
+"highSchool": "Bethel",
+"graduationYear": 2027
+},
+{
+"name": "Alana Nagata",
+"position": "OF",
+"year": "FR",
+"hometown": "Kaneohe, HI",
+"highSchool": "University Laboratory",
+"graduationYear": 2027
+},
+{
+"name": "Mailana Mattos",
+"position": "SS",
+"year": "FR",
+"hometown": "Aiea, HI",
+"highSchool": "Radford",
+"graduationYear": 2027
+},
+{
+"name": "Kyra Brown",
+"position": "3B",
+"year": "FR",
+"hometown": "University Place",
+"highSchool": "Steilacoom",
+"graduationYear": 2027
+},
+{
+"name": "Taimane Faleafine-Auwae",
+"position": "OF",
+"year": "FR",
+"hometown": "Lahaina, HI",
+"highSchool": "Maryknoll",
+"graduationYear": 2027
+},
+{
+"name": "Sarah Anderson",
+"position": "1B",
+"year": "SO",
+"hometown": "Everett, WA",
+"highSchool": "Cascade",
+"graduationYear": 2026
+},
+{
+"name": "Alicia Suggs",
+"position": "P",
+"year": "FR",
+"hometown": null,
+"highSchool": null,
+"graduationYear": 2027
+},
+{
+"name": "Jade Relkoff",
+"position": "OF",
+"year": "FR",
+"hometown": "Monroe, WA",
+"highSchool": "Monroe",
+"graduationYear": 2027
+},
+{
+"name": "Ceana Ehni",
+"position": "P",
+"year": "FR",
+"hometown": "Snohomish, WA",
+"highSchool": "Monroe",
+"graduationYear": 2027
+}
+]
+}
+```
+
+Raw Gemini output for North Idaho College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for Chemeketa Community College:
+```json
+{
+    "success": false,
+    "reason": "No player data found on the roster page.",
+    "rosterYear": 2024,
+    "players": []
+}
+```
+
+Raw Gemini output for Skagit Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Maddy Fischer",
+"position": "Outfield / Short Stop",
+"year": "Fr.",
+"hometown": "Marysville, WA",
+"highSchool": "Arlington",
+"graduationYear": 2027
+},
+{
+"name": "Kaylee Walcott",
+"position": "Outfield",
+"year": "Fr.",
+"hometown": "Mount Vernon, WA",
+"highSchool": "Lord Tweedsmuir Secondary",
+"graduationYear": 2027
+},
+{
+"name": "Kirstyn Scott",
+"position": "2nd Base / Shortstop",
+"year": "Fr.",
+"hometown": "Bothell, WA",
+"highSchool": "Inglemoor",
+"graduationYear": 2027
+},
+{
+"name": "Jerzay Leonard",
+"position": "3rd Base / Outfield",
+"year": "Fr.",
+"hometown": "Kapolei, HI",
+"highSchool": "Kapolei",
+"graduationYear": 2027
+},
+{
+"name": "Gracie Musga",
+"position": "Shortstop / 2nd Base",
+"year": "Fr.",
+"hometown": "Kent, WA",
+"highSchool": "Kentwood",
+"graduationYear": 2027
+},
+{
+"name": "Mikala Marshall",
+"position": "Catcher",
+"year": "Fr.",
+"hometown": "Scappoose, OR",
+"highSchool": "Scappoose",
+"graduationYear": 2027
+},
+{
+"name": "Alyssa Bacon",
+"position": "Outfield",
+"year": "Fr.",
+"hometown": "Blaine, WA",
+"highSchool": "Blaine",
+"graduationYear": 2027
+},
+{
+"name": "Kaitlyn Rosenburg",
+"position": "1st Base / Pitcher",
+"year": "Fr.",
+"hometown": "Deming, WA",
+"highSchool": "Mount Baker",
+"graduationYear": 2027
+},
+{
+"name": "Briley Bock",
+"position": "Outfield",
+"year": "Fr.",
+"hometown": "White Swan, WA",
+"highSchool": "White Swan",
+"graduationYear": 2027
+},
+{
+"name": "Keelie Hancock",
+"position": "Outfield / Pitcher / Utility",
+"year": "Fr.",
+"hometown": "Caldwell, ID",
+"highSchool": "Vallivue",
+"graduationYear": 2027
+},
+{
+"name": "Leira Freeburg-Perez",
+"position": "Catcher / 3rd Base",
+"year": "Fr.",
+"hometown": "Moxee, WA",
+"highSchool": "East Valley",
+"graduationYear": 2027
+},
+{
+"name": "Lainy Vig",
+"position": "Pitcher / Outfield",
+"year": "Fr.",
+"hometown": "Sequim, WA",
+"highSchool": "Sequim",
+"graduationYear": 2027
+},
+{
+"name": "Teagan Clark",
+"position": "Pitcher / 2nd Base / Outfield",
+"year": "Fr.",
+"hometown": "Port Angeles, WA",
+"highSchool": "Port Angeles",
+"graduationYear": 2027
+},
+{
+"name": "MaKenna Wright",
+"position": "Cather / 1st Base",
+"year": "Fr.",
+"hometown": "Blaine, WA",
+"highSchool": "Blaine",
+"graduationYear": 2027
+},
+{
+"name": "Alexia Saldivar",
+"position": "Pitcher / 1st Base / 3rd Base",
+"year": "Fr.",
+"hometown": "Burlington, WA",
+"highSchool": "Burlington-Edison",
+"graduationYear": 2027
+}
+]
+}
+```
+
+Raw Gemini output for Big Bend Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": [
+        {
+            "name": "Abeyta, Kiana",
+            "position": "INF",
+            "year": "So",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Aguilar, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Pasco, WA",
+            "highSchool": "Chiawana",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Aispuro, Brianna",
+            "position": "OF",
+            "year": "So",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Anderson, Kaylee",
+            "position": "C",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Barajas, Jazmine",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Bender, Madison",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Brown, Katelyn",
+            "position": "P",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Castillo, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Cordova, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Davis, Kiana",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "De La Cruz, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Diaz, Brianna",
+            "position": "P",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Flores, Aaliyah",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Garcia, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Gonzalez, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Guerrero, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Hernandez, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Jimenez, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Johnson, Kiana",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Lopez, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Martinez, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Mendoza, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Miranda, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Montes, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Moreno, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Munoz, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Nava, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Nieto, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Ortiz, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Perez, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Ramirez, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Reyes, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Rodriguez, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Romero, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Sanchez, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Santos, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Torres, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Valdez, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Vasquez, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Vega, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Velasquez, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Villa, Aaliyah",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Villanueva, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Wilson, Kiana",
+            "position": "INF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        }
+    ]
+}
+```
+
+Raw Gemini output for Yakima Valley College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": [
+        {
+            "name": "Alyssa Sosky",
+            "position": "OF",
+            "year": "So.",
+            "hometown": "Ford, WA",
+            "highSchool": "Reardan",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Joslynn Simmons",
+            "position": "OF",
+            "year": "Fr.",
+            "hometown": "Chelan, WA",
+            "highSchool": "Chelan",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Grace Estabrook",
+            "position": "INF",
+            "year": "Fr.",
+            "hometown": "Port Orchard, WA",
+            "highSchool": "Peninsula",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Madison Kennedy",
+            "position": "P/INF",
+            "year": "So.",
+            "hometown": "Ellensburg, WA",
+            "highSchool": "Ellensburg",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Madison Morrison",
+            "position": "UTL",
+            "year": "Fr.",
+            "hometown": "Yakima, WA",
+            "highSchool": "East Valley",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Claire DeVries",
+            "position": "P/OF",
+            "year": "So.",
+            "hometown": "Lynden, WA",
+            "highSchool": "Lynden",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Linea Butler",
+            "position": "C/INF",
+            "year": "Fr.",
+            "hometown": "Yakima, WA",
+            "highSchool": "West Valley",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Briley Ingram",
+            "position": "P",
+            "year": "Fr.",
+            "hometown": "Yamhill, OR",
+            "highSchool": "Yamhill-Carlton",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Glory Estabrook",
+            "position": "P/INF",
+            "year": "Fr.",
+            "hometown": "Port Orchard, WA",
+            "highSchool": "Peninsula",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Katie Arnold",
+            "position": "OF",
+            "year": "So.",
+            "hometown": "Yakima, WA",
+            "highSchool": "West Valley",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Carley  Hobbs",
+            "position": "OF",
+            "year": "So.",
+            "hometown": "Castle Rock, CO",
+            "highSchool": "Colorado Early Colleges",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Avery Olauson",
+            "position": "C/INF",
+            "year": "Fr.",
+            "hometown": "Idaho Falls, ID",
+            "highSchool": "Skyline",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Riley Eckhardt",
+            "position": "INF",
+            "year": "Fr.",
+            "hometown": "Kaysville, UT",
+            "highSchool": "Farmington",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Sami Staley",
+            "position": "INF",
+            "year": "Fr.",
+            "hometown": "Blackfoot, ID",
+            "highSchool": "Blackfoot",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Makynzee Taylor",
+            "position": "INF",
+            "year": "So.",
+            "hometown": "Puyallup, WA",
+            "highSchool": "Rogers",
+            "graduationYear": 2027
+        },
+        {
+            "name": "Emma Stamp",
+            "position": "INF",
+            "year": "Fr.",
+            "hometown": "Port Orchard, WA",
+            "highSchool": "South Kitsap",
+            "graduationYear": 2028
+        }
+    ]
+}
+```
+
+Raw Gemini output for Wenatchee Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2023,
+"players": [
+{
+"name": "Sophie Berning",
+"position": "Catcher",
+"year": "Fr.",
+"hometown": "Stevensville, MT",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Alix Bishop",
+"position": "Pitcher & Third Base",
+"year": "Fr.",
+"hometown": "Rigby, ID",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Erin Bishop",
+"position": "Outfield",
+"year": "Fr.",
+"hometown": "Rigby, ID",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Aaliyah Marchand",
+"position": "Infield",
+"year": "Fr.",
+"hometown": "Coulee City, WA",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Hailey South",
+"position": "Short Stop",
+"year": "Fr.",
+"hometown": "Hermiston, OR",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Emma Warman",
+"position": null,
+"year": "Fr.",
+"hometown": "Leavenworth, WA",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Giselle Kump",
+"position": "Pitcher",
+"year": "Fr.",
+"hometown": "Idaho Falls, ID",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Ashlynn Lott",
+"position": null,
+"year": "Fr.",
+"hometown": "Idaho Falls, ID",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Brynn Reedy",
+"position": "Pitcher",
+"year": "Fr.",
+"hometown": "West Jordan, UT",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Megan Smit",
+"position": "Outfield",
+"year": "So.",
+"hometown": "Lynnwood, WA",
+"highSchool": null,
+"graduationYear": 2025
+},
+{
+"name": "Kaya Enriquez",
+"position": "Catcher",
+"year": "So.",
+"hometown": "Warden, WA",
+"highSchool": null,
+"graduationYear": 2025
+},
+{
+"name": "Gabby Krueger",
+"position": "Outfield",
+"year": "So.",
+"hometown": "Corvallis, MT",
+"highSchool": null,
+"graduationYear": 2025
+},
+{
+"name": "Laine Morgan",
+"position": "Outfield",
+"year": "Fr.",
+"hometown": "Okanogan, WA",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Jazlynn Valdez-Torres",
+"position": "Infield",
+"year": "Fr.",
+"hometown": "Moses Lake, WA",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Alexsus Leinweber",
+"position": "First Base",
+"year": "Fr.",
+"hometown": "Warden, WA",
+"highSchool": null,
+"graduationYear": 2026
+},
+{
+"name": "Harlie Zones",
+"position": null,
+"year": "Fr.",
+"hometown": "Waterville, WA",
+"highSchool": null,
+"graduationYear": 2026
+}
+]
+}
+```
+
+Raw Gemini output for Southwestern Oregon Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2023,
+    "players": [
+        {
+            "name": "Trynly Haack",
+            "position": "C/OF",
+            "year": "So.",
+            "hometown": "Idaho Falls, ID",
+            "highSchool": "Thunder Ridge",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Tori Goodell",
+            "position": "C/MIF",
+            "year": "Fr.",
+            "hometown": "Yakima, WA",
+            "highSchool": "East Valley",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Noelani Barawis",
+            "position": "UTL",
+            "year": "So.",
+            "hometown": "Riverton, UT",
+            "highSchool": "Bingham",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Makenzie Alexander",
+            "position": "MIF",
+            "year": "Fr.",
+            "hometown": "Lahaina, HI",
+            "highSchool": "Lahainaluna",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Amanda Mcdonald",
+            "position": "P/OF",
+            "year": "Fr.",
+            "hometown": "Chandler, AZ",
+            "highSchool": "Arizona College Prep",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Kiara Kamimae",
+            "position": "OF",
+            "year": "So.",
+            "hometown": "Covington, WA",
+            "highSchool": "Kentwood",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Avery Garbarek",
+            "position": "P/UTL",
+            "year": "So.",
+            "hometown": "Evergreen, CO",
+            "highSchool": "Two Roads Charter",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Jill Halas",
+            "position": "OF",
+            "year": "Fr.",
+            "hometown": "Las Vegas, NV",
+            "highSchool": "Centennial",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Ashley Fritz",
+            "position": "OF",
+            "year": "So.",
+            "hometown": "Conifer, CO",
+            "highSchool": "Conifer",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Aubrey Garbarek",
+            "position": "MIF",
+            "year": "So.",
+            "hometown": "Evergreen, CO",
+            "highSchool": "Two Roads Charter",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Taylor Brewer",
+            "position": "P/OF",
+            "year": "So.",
+            "hometown": "Nampa, ID",
+            "highSchool": "Skyview",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Giselle Beriault",
+            "position": "OF",
+            "year": "Fr.",
+            "hometown": "Tempe, AZ",
+            "highSchool": "Mcclintock",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Sadie Taylor",
+            "position": "P/3B",
+            "year": "So.",
+            "hometown": "Taylorsville, UT",
+            "highSchool": "Taylorsville",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Riley Peeler",
+            "position": "1B",
+            "year": "So.",
+            "hometown": "Veneta, OR",
+            "highSchool": "Elmira",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Emilia (Emmy) Eaton",
+            "position": "P/OF",
+            "year": "Fr.",
+            "hometown": "Wheat Ridge, CO",
+            "highSchool": "Wheat Ridge",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Julia Anzaldua",
+            "position": "OF",
+            "year": "Fr.",
+            "hometown": "Colorado Springs, CO",
+            "highSchool": "Fountain Fort Carson",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Megan Fritz",
+            "position": "C/2B",
+            "year": "So.",
+            "hometown": "Conifer, CO",
+            "highSchool": "Conifer",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Ryleigh Blaire",
+            "position": "C/1B",
+            "year": "So.",
+            "hometown": "Gardnerville, NV",
+            "highSchool": "Douglas",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Eliana (Eli) Ulufale",
+            "position": "1B/3B",
+            "year": "Fr.",
+            "hometown": "Kahului, HI",
+            "highSchool": "Maui",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Dakota Till",
+            "position": "1B/3B",
+            "year": "Fr.",
+            "hometown": "Gardnerville, NV",
+            "highSchool": "Douglas",
+            "graduationYear": 2028
+        }
+    ]
+}
+```
+
+Raw Gemini output for Big Bend Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "rosterYear": 2024,
+    "players": [
+        {
+            "name": "Abeyta, Brianna",
+            "position": "OF",
+            "year": "So",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Acosta, Alyssa",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Sunnyside, WA",
+            "highSchool": "Sunnyside",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Anderson, Kaylee",
+            "position": "C",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Barajas, Jazmine",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Yakima, WA",
+            "highSchool": "Eisenhower",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Barajas, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Yakima, WA",
+            "highSchool": "Eisenhower",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Bender, Katelyn",
+            "position": "OF",
+            "year": "So",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2026
+        },
+        {
+            "name": "Black, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Brown, Kaylee",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Carrillo, Brianna",
+            "position": "OF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Castillo, Alyssa",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Chavez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Cline, Katelyn",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Contreras, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Davis, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "De La Cruz, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Diaz, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Dominguez, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Estrada, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Flores, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Garcia, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Gonzalez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Guzman, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Hernandez, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Jimenez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Johnson, Kaylee",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Jones, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Lopez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Martinez, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Mendoza, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Miranda, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Montez, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Morales, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Munoz, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Nava, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Nieto, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Ortiz, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Perez, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Ramirez, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Reyes, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Rodriguez, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Romero, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Sanchez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Santos, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Serrano, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Silva, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Smith, Kaylee",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Torres, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Valdez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Vasquez, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Vega, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Velasquez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Villa, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Villanueva, Kiana",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Wilson, Kaylee",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Yanez, Brianna",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        },
+        {
+            "name": "Zepeda, Kayla",
+            "position": "IF",
+            "year": "Fr",
+            "hometown": "Moses Lake, WA",
+            "highSchool": "Moses Lake",
+            "graduationYear": 2028
+        }
+    ]
+}
+```
+
+Raw Gemini output for Highline College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Abeyta, Alyssa",
+"position": "INF",
+"year": "So",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2026
+},
+{
+"name": "Acosta, Alondra",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Aguilar, Alexis",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Anderson, Emma",
+"position": "OF",
+"year": "So",
+"hometown": "Kent, WA",
+"highSchool": "Kentwood",
+"graduationYear": 2026
+},
+{
+"name": "Avila, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Isabella",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Jazmin",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Sophia",
+"position": "C",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Bejarano, Samantha",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Bell, Kiana",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Bender, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Bennett, Emily",
+"position": "P",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Bermudez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Boone, Mckenzie",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Brown, Kiana",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Cantu, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Carrasco, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Castillo, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Chavez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Cisneros, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Clark, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Collier, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Cook, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Cortez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Davis, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Delgado, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Dominguez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Edwards, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Espinoza, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Fernandez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Flores, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Garza, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Guerrero, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Hall, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Herrera, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Johnson, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Jones, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Lopez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Luna, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Macias, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Maldonado, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Marquez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Mercado, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Miller, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Moncada, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Montañez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Moore, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Morales, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Navarro, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Nieves, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Nunez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Ochoa, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Oliver, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Ortiz, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Padilla, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Phillips, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Pineda, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Rios, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Rivera, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Rogers, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Salas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Saucedo, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Schroeder, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Serrano, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Silva, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Smith, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Soto, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Suarez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Villarreal, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Villanueva, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Wilson, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Wright, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Young, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Zamora, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+}
+]
+}
+```
+
+Raw Gemini output for Clark College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2025,
+"players": [
+{
+"name": "Abeyta, Kayla",
+"position": "INF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Skyview",
+"graduationYear": 2027
+},
+{
+"name": "Acosta, Isabella",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Aguilar, Isabella",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Anderson, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2028
+},
+{
+"name": "Anderson, Ashley",
+"position": "C",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2028
+},
+{
+"name": "Arroyo, Jada",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Barajas
+
+Raw Gemini output for Clark College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2025,
+"players": [
+{
+"name": "Abeyta, Alyssa",
+"position": "INF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Skyview",
+"graduationYear": 2027
+},
+{
+"name": "Acosta, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Anderson, Kiana",
+"position": "OF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2027
+},
+{
+"name": "Arroyo, Jazmine",
+"position": "C",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Bender, Emma",
+"position": "INF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2027
+},
+{
+"name": "Bennett, Ashlee",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Evergreen",
+"graduationYear": 2028
+},
+{
+"name": "Brown, Mckenzie",
+"position": "P",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Cantu, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Evergreen",
+"graduationYear": 2028
+},
+{
+"name": "Carrasco, Ashley",
+"position": "INF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2027
+},
+{
+"name": "Castillo, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Cervantes, Jazmine",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Chavez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Contreras, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Cordova, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Flores, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Guerrero, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Johnson, Kiana",
+"position": "OF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2027
+},
+{
+"name": "Jones, Ciera",
+"position": "Head Coach",
+"year": null,
+"hometown": null,
+"highSchool": null,
+"graduationYear": null
+},
+{
+"name": "Lopez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Montero, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Moreno, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Nava, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Nieves, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Ortiz, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Villanueva, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Williams, Kiana",
+"position": "OF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2027
+}
+]
+}
+```
+
+Raw Gemini output for Highline College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Abeyta, Alyssa",
+"position": "INF",
+"year": "So",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2026
+},
+{
+"name": "Acosta, Alondra",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Anderson, Makenna",
+"position": "OF",
+"year": "So",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2026
+},
+{
+"name": "Barajas, Brianna",
+"position": "INF",
+"year": "So",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2026
+},
+{
+"name": "Barajas, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Sarah",
+"position": "OF",
+"year": "So",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2026
+},
+{
+"name": "Barrera, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Beltran, Brianna",
+"position": "C",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Benton, Kiana",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Brown, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Brown, Jada",
+"position": "OF",
+"year": "So",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2026
+},
+{
+"name": "Cantu, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Carrillo, Ashley",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Castillo, Ashley",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Chavez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Contreras, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Cordova, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Dominguez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Flores, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Guerrero, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Lopez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Lopez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Lopez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Lopez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moncada, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moncada, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moncada, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moncada, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Montañez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Montañez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Montañez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Montañez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moreno, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moreno, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moreno, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Moreno, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nava, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nava, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nava, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nava, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nieves, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nieves, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nieves, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Nieves, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ortiz, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ortiz, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ortiz, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ortiz, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vargas, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vargas, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vargas, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vargas, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Sarah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Villa, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Villa, Jazmine",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Villa, Kayla",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Villa, Sarah",
+"position":
+
+Raw Gemini output for Clark College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2025,
+"players": [
+{
+"name": "Abeyta, Alyssa",
+"position": "INF",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Skyview",
+"graduationYear": 2027
+},
+{
+"name": "Anderson, Emily",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2028
+},
+{
+"name": "Blehm, Kaitlyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Brown, Sarah",
+"position": "C",
+"year": "So",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2027
+},
+{
+"name": "Cantu, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Carrasco, Ashley",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Castillo, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Chavez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Christensen, Katelyn",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Cline, Emily",
+"position": "P",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Columbia River",
+"graduationYear": 2028
+},
+{
+"name": "Collins, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Davis, Katelyn",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "De La Cruz, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Dominguez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Edwards, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Flores, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Guerrero, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Johnson, Katelyn",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Jones, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Lopez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Montero, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Moreno, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Nunez, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Ortiz, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Hudson's Bay",
+"graduationYear": 2028
+},
+{
+"name": "Villanueva, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Williams, Katelyn",
+"position": "INF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+},
+{
+"name": "Wilson, Katelyn",
+"position": "OF",
+"year": "Fr",
+"hometown": "Vancouver, WA",
+"highSchool": "Prairie",
+"graduationYear": 2028
+}
+]
+}
+```
+
+Raw Gemini output for Highline College:
+```json
+{
+"success": true,
+"reason": null,
+"rosterYear": 2024,
+"players": [
+{
+"name": "Abeyta, Alyssa",
+"position": "INF",
+"year": "So",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2026
+},
+{
+"name": "Aguilar, Jazmin",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Alcantara, Brianna",
+"position": "OF",
+"year": "So",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2026
+},
+{
+"name": "Anderson, Alexis",
+"position": "C",
+"year": "Fr",
+"hometown": "Kent, WA",
+"highSchool": "Kentwood",
+"graduationYear": 2028
+},
+{
+"name": "Avila, Brianna",
+"position": "INF",
+"year": "So",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2026
+},
+{
+"name": "Barajas, Isabella",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Barajas, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Benton, Kiana",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Blake, Aaliyah",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Brown, Jada",
+"position": "INF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Cabrera, Brianna",
+"position": "C",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Cantu, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Carrillo, Jazmin",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Castillo, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Chavez, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Contreras, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Cordova, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Diaz, Jazmin",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Flores, Brianna",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Garcia, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Gonzalez, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Guerrero, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Hernandez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Jimenez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Johnson, Jada",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Lopez, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Martinez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Medina, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Mendoza, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Mercado, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Miranda, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Moncada, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Montalvo, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Moreno, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Munoz, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Nava, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Nieves, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Ochoa, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Ortega, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Padilla, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Perez, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Ramirez, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Reyes, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Rodriguez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Romero, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Sanchez, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Santos, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Serrano, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Silva, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Torres, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Valdez, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Vasquez, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Vega, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Velasquez, Aaliyah",
+"position": "OF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Villa, Brianna",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Villanueva, Isabella",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+},
+{
+"name": "Wilson, Jada",
+"position": "OF",
+"year": "Fr",
+"hometown": "Federal Way, WA",
+"highSchool": "Thomas Jefferson",
+"graduationYear": 2028
+},
+{
+"name": "Yanez, Valeria",
+"position": "INF",
+"year": "Fr",
+"hometown": "Auburn, WA",
+"highSchool": "Auburn",
+"graduationYear": 2028
+}
+]
+}
+```
+

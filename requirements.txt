@@ -10,5 +10,6 @@ aiohttp
 Pillow
 beautifulsoup4
 pymongo
-thefuzz
+fuzzywuzzy
+python-Levenshtein
 json5
