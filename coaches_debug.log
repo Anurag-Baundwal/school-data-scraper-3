@@ -1,0 +1,816 @@
+2024-08-04 16:29:37,958 - ERROR - Error loading Excel file: [Errno 2] No such file or directory: 'C:\\Users\\YourUsername\\path\\to\\Freelancer_Data_Mining_Project.xlsx'
+2024-08-04 16:29:37,958 - ERROR - Failed to load Excel file. Exiting.
+2024-08-04 16:29:37,958 - INFO - Total execution time: 0:00:00.001999
+2024-08-04 16:46:01,700 - INFO - 
+Processing sheet: JUCO - NWAC
+2024-08-04 16:46:01,762 - INFO - 
+Processing Staff Directory URLs for sheet: JUCO - NWAC
+2024-08-04 16:46:01,764 - INFO - Processing Bellevue College (URL: https://www.bellevuecollege.edu/athletics/department/staff-directory/) - Attempt 1
+2024-08-04 16:46:01,785 - INFO - Processing Big Bend Community College (URL: https://www.bbccvikings.com/inside-athletics/directory) - Attempt 1
+2024-08-04 16:46:01,799 - INFO - Processing Blue Mountain Community College (URL: https://bmcctimberwolves.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:01,813 - INFO - Processing Centralia College (URL: https://centraliablazers.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:01,831 - INFO - Processing Chemeketa Community College (URL: https://www.chemeketa.edu/athletics/softball/) - Attempt 1
+2024-08-04 16:46:01,854 - INFO - Processing Clackamas Community College (URL: https://www.clackamascougars.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:01,872 - INFO - Processing Clark College (URL: https://clarkpenguins.com/staff-directory) - Attempt 1
+2024-08-04 16:46:01,891 - INFO - Processing Columbia Basin College (URL: https://cbchawks.com/staff-directory) - Attempt 1
+2024-08-04 16:46:01,907 - INFO - Processing Community Colleges of Spokane (URL: https://scc.spokane.edu/Athletics/Inside-Athletics/Coach-Staff-Directory) - Attempt 1
+2024-08-04 16:46:01,928 - INFO - Processing Douglas College (URL: https://douglas.prestosports.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:01,948 - INFO - Processing Edmonds College (URL: https://www.edmondstritons.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:01,965 - INFO - Processing Everett Community College (URL: https://athletics.everettcc.edu/information/directory/index) - Attempt 1
+2024-08-04 16:46:01,982 - INFO - Processing Grays Harbor College (URL: https://ghcathletics.com/staff-directory) - Attempt 1
+2024-08-04 16:46:01,997 - INFO - Processing Highline College (URL: https://highlineathletics.com/staff-directory) - Attempt 1
+2024-08-04 16:46:02,013 - INFO - Processing Lower Columbia College (URL: https://lccreddevils.com/staff-directory) - Attempt 1
+2024-08-04 16:46:03,198 - INFO - Body HTML content for Chemeketa Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:05,461 - INFO - Body HTML content for Clackamas Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:07,568 - INFO - Body HTML content for Bellevue College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:09,722 - INFO - Body HTML content for Douglas College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:11,725 - INFO - Body HTML content for Columbia Basin College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:14,448 - INFO - Body HTML content for Grays Harbor College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:17,357 - INFO - Body HTML content for Clark College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:20,189 - INFO - Body HTML content for Lower Columbia College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:22,902 - INFO - Body HTML content for Highline College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:25,689 - INFO - Body HTML content for Big Bend Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:27,943 - INFO - Body HTML content for Everett Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:30,326 - INFO - Body HTML content for Blue Mountain Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:32,981 - INFO - Body HTML content for Centralia College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:35,597 - INFO - Body HTML content for Edmonds College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:38,927 - DEBUG - Raw Gemini output for Chemeketa Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Chelsea Qualls",
+"title": "Head Coach",
+"email": null,
+"phone": "5039494701",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:38,931 - INFO - Raw Gemini output for Chemeketa Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:38,933 - INFO - Tokens used for Chemeketa Community College Staff Directory: 8471
+2024-08-04 16:46:38,933 - INFO - Successfully scraped data for Chemeketa Community College
+2024-08-04 16:46:39,052 - INFO - Body HTML content for Community Colleges of Spokane saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:40,162 - INFO - Processing Mt. Hood Community College (URL: https://www.mhcc.edu/athletics/softball/roster) - Attempt 1
+2024-08-04 16:46:40,450 - DEBUG - Raw Gemini output for Clackamas Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Jessica Buel",
+"title": "Softball Head Coach",
+"email": "jessicab@clackamas.edu",
+"phone": "503-594-3602",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:40,451 - INFO - Raw Gemini output for Clackamas Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:40,453 - INFO - Tokens used for Clackamas Community College Staff Directory: 6897
+2024-08-04 16:46:40,453 - INFO - Successfully scraped data for Clackamas Community College
+2024-08-04 16:46:40,724 - DEBUG - Raw Gemini output for Bellevue College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Annie Lockwood",
+"title": "Head Coach",
+"email": "annie.lockwood@bellevuecollege.edu",
+"phone": "6023630767",
+"twitter": null
+},
+{
+"name": null,
+"title": "Asst. Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": null,
+"title": "Asst. Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": null,
+"title": "Asst. Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:40,737 - INFO - Raw Gemini output for Bellevue College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:40,741 - INFO - Tokens used for Bellevue College Staff Directory: 7253
+2024-08-04 16:46:40,742 - INFO - Successfully scraped data for Bellevue College
+2024-08-04 16:46:40,744 - INFO - Processing North Idaho College (URL: https://nicathletics.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:40,767 - INFO - Processing Olympic College (URL: https://www.olympicrangers.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:41,066 - DEBUG - Raw Gemini output for Douglas College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Robin Bridge",
+            "title": "Interim Head Coach",
+            "email": "rbridge1@douglascollege.ca",
+            "phone": null,
+            "twitter": null
+        },
+        {
+            "name": "Jordan Britten-Yung",
+            "title": "Assistant Coach",
+            "email": null,
+            "phone": null,
+            "twitter": null
+        },
+        {
+            "name": "Chris Bridge",
+            "title": "Assistant Coach",
+            "email": null,
+            "phone": null,
+            "twitter": null
+        }
+    ]
+}
+```
+2024-08-04 16:46:41,069 - INFO - Raw Gemini output for Douglas College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:41,070 - INFO - Tokens used for Douglas College Staff Directory: 8766
+2024-08-04 16:46:41,070 - INFO - Successfully scraped data for Douglas College
+2024-08-04 16:46:41,070 - INFO - Processing Pierce College (URL: https://www.pierceraiders.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:41,706 - WARNING - SSL Handshake Failed (Error 525) for https://www.mhcc.edu/athletics/softball/roster. Retrying in 2 seconds...
+2024-08-04 16:46:42,383 - INFO - Body HTML content for Olympic College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:44,806 - DEBUG - Raw Gemini output for Everett Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Randy Smith",
+"title": "Head Coach",
+"email": "rsmith@everettcc.edu",
+"phone": "4253889329",
+"twitter": null
+},
+{
+"name": "Rick Smith",
+"title": "Assistant Coach",
+"email": "rismith@everettcc.edu",
+"phone": "4253889329",
+"twitter": null
+},
+{
+"name": "Dennis Mallory",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:44,812 - INFO - Raw Gemini output for Everett Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:44,815 - INFO - Tokens used for Everett Community College Staff Directory: 9418
+2024-08-04 16:46:44,816 - INFO - Successfully scraped data for Everett Community College
+2024-08-04 16:46:45,086 - DEBUG - Raw Gemini output for Blue Mountain Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Danyelle Huber",
+            "title": "Assistant Softball Coach",
+            "email": null,
+            "phone": null,
+            "twitter": null
+        },
+        {
+            "name": "Now Hiring",
+            "title": "Head Softball Coach",
+            "email": "athletics@bluecc.edu",
+            "phone": null,
+            "twitter": null
+        }
+    ]
+}
+```
+2024-08-04 16:46:45,137 - INFO - Raw Gemini output for Blue Mountain Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:45,140 - INFO - Tokens used for Blue Mountain Community College Staff Directory: 15879
+2024-08-04 16:46:45,142 - INFO - Successfully scraped data for Blue Mountain Community College
+2024-08-04 16:46:45,411 - DEBUG - Raw Gemini output for Edmonds College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Antionette Watson",
+"title": "Head Coach",
+"email": "antionette.watson@edmonds.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Audrey Rausch",
+"title": "Assistant Coach",
+"email": "audrey.rausch@edmonds.edu",
+"phone": "206.607.7123",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:45,417 - INFO - Raw Gemini output for Edmonds College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:45,420 - INFO - Tokens used for Edmonds College Staff Directory: 17265
+2024-08-04 16:46:45,421 - INFO - Successfully scraped data for Edmonds College
+2024-08-04 16:46:45,699 - DEBUG - Raw Gemini output for Centralia College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Kevin Slorey",
+"title": "Head Coach",
+"email": "slorey2@comcast.net",
+"phone": "3602691930",
+"twitter": null
+},
+{
+"name": "Kayla Hoke",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Abby Russell",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Mackenzie Wasson",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:45,702 - INFO - Raw Gemini output for Centralia College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:45,703 - INFO - Tokens used for Centralia College Staff Directory: 15831
+2024-08-04 16:46:45,703 - INFO - Successfully scraped data for Centralia College
+2024-08-04 16:46:45,968 - DEBUG - Raw Gemini output for Big Bend Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Kiera Broehl",
+"title": "Head Softball Coach",
+"email": "KieraB@BigBend.edu",
+"phone": "5097932446",
+"twitter": null
+},
+{
+"name": "Paige Hightower",
+"title": "Assistant Softball Coach",
+"email": "PaigeH@BigBend.edu",
+"phone": "5097932446",
+"twitter": null
+},
+{
+"name": "Alexa Moser",
+"title": "Assistant Softball Coach",
+"email": "AlexaM@BigBend.edu",
+"phone": "5097932439",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:45,970 - INFO - Raw Gemini output for Big Bend Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:45,972 - INFO - Tokens used for Big Bend Community College Staff Directory: 17554
+2024-08-04 16:46:45,972 - INFO - Successfully scraped data for Big Bend Community College
+2024-08-04 16:46:45,973 - INFO - Processing Shoreline Community College (URL: https://www.shoreline.edu/athletics/directory.aspx) - Attempt 1
+2024-08-04 16:46:45,991 - INFO - Processing Skagit Valley College (URL: https://athletics.skagit.edu/staff-directory) - Attempt 1
+2024-08-04 16:46:46,006 - INFO - Processing Southwestern Oregon Community College (URL: https://swoccathletics.com/staff-directory) - Attempt 1
+2024-08-04 16:46:46,022 - INFO - Processing Treasure Valley Community College (URL: https://www.gochuks.com/information/directory/index) - Attempt 1
+2024-08-04 16:46:46,037 - INFO - Processing Walla Walla Community College (URL: https://warriors.wwcc.edu/information/directory/index) - Attempt 1
+2024-08-04 16:46:46,079 - INFO - Body HTML content for North Idaho College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:48,075 - INFO - Body HTML content for Pierce College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:50,307 - INFO - Body HTML content for Mt. Hood Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:52,561 - DEBUG - Raw Gemini output for Olympic College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Adia Roberts",
+            "title": "Assistant Coach",
+            "email": "aroberts@olympic.edu",
+            "phone": null,
+            "twitter": null
+        }
+    ]
+}
+```
+2024-08-04 16:46:52,564 - INFO - Raw Gemini output for Olympic College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:52,566 - INFO - Tokens used for Olympic College Staff Directory: 7565
+2024-08-04 16:46:52,566 - INFO - Successfully scraped data for Olympic College
+2024-08-04 16:46:52,833 - DEBUG - Raw Gemini output for Lower Columbia College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Traci Fuller",
+"title": "Head Coach",
+"email": "tfuller@lowercolumbia.edu",
+"phone": "3604422482",
+"twitter": "LCCdevilsSB"
+},
+{
+"name": "Dave Andrew",
+"title": "Assistant Coach/Recruiting Coordinator",
+"email": "dandrew@lowercolumbia.edu",
+"phone": "3607515575",
+"twitter": "DaveAndrew_LCC"
+}
+]
+}
+```
+2024-08-04 16:46:52,837 - INFO - Raw Gemini output for Lower Columbia College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:52,841 - INFO - Tokens used for Lower Columbia College Staff Directory: 60873
+2024-08-04 16:46:52,841 - INFO - Successfully scraped data for Lower Columbia College
+2024-08-04 16:46:53,124 - DEBUG - Raw Gemini output for Columbia Basin College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Montessa Califano",
+"title": "Head Coach",
+"email": "mcalifano@columbiabasin.edu",
+"phone": "5095424460",
+"twitter": null
+},
+{
+"name": "Amanda Larsen",
+"title": "Assistant Coach",
+"email": "alarsen@columbiabasin.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Joe Cheevers",
+"title": "Assistant Coach",
+"email": "jcheevers@columbiabasin.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Amanda Brown",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:53,128 - INFO - Raw Gemini output for Columbia Basin College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:53,131 - INFO - Tokens used for Columbia Basin College Staff Directory: 58539
+2024-08-04 16:46:53,131 - INFO - Successfully scraped data for Columbia Basin College
+2024-08-04 16:46:53,395 - DEBUG - Raw Gemini output for Clark College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Ciera Jones",
+"title": "Head Coach",
+"email": "cjones@clark.edu",
+"phone": "5713085061",
+"twitter": null
+},
+{
+"name": "Bryan Blehm",
+"title": "Associate Head Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Carrigan Foster",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:53,400 - INFO - Raw Gemini output for Clark College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:53,403 - INFO - Tokens used for Clark College Staff Directory: 71651
+2024-08-04 16:46:53,403 - INFO - Successfully scraped data for Clark College
+2024-08-04 16:46:53,405 - INFO - Processing Wenatchee Valley College (URL: https://gowvc.com/staff-directory/staff-department/1) - Attempt 1
+2024-08-04 16:46:53,443 - INFO - Processing Yakima Valley College (URL: https://goyaks.com/staff-directory) - Attempt 1
+2024-08-04 16:46:53,735 - DEBUG - Raw Gemini output for Highline College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Kevin  Whitehouse",
+"title": "Interim Head Coach",
+"email": "kwhitehouse@highline.edu",
+"phone": "2063046285",
+"twitter": null
+},
+{
+"name": "Genevieve \"LU\"  Medeiros",
+"title": "Assistant Coach",
+"email": null,
+"phone": "7145989392",
+"twitter": null
+},
+{
+"name": "Winter  Ridgeway",
+"title": "Assistant Coach",
+"email": null,
+"phone": "4254660050",
+"twitter": null
+},
+{
+"name": "Julia  Toone",
+"title": "Assistant Coach",
+"email": null,
+"phone": "2064276981",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:53,737 - INFO - Raw Gemini output for Highline College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:53,739 - INFO - Tokens used for Highline College Staff Directory: 46531
+2024-08-04 16:46:53,739 - INFO - Successfully scraped data for Highline College
+2024-08-04 16:46:54,006 - DEBUG - Raw Gemini output for Grays Harbor College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Jake White",
+"title": "Head Softball Coach",
+"email": "jacob.white@ghc.edu",
+"phone": "3603536449",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:54,007 - INFO - Raw Gemini output for Grays Harbor College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:54,008 - INFO - Tokens used for Grays Harbor College Staff Directory: 61088
+2024-08-04 16:46:54,009 - INFO - Successfully scraped data for Grays Harbor College
+2024-08-04 16:46:54,452 - DEBUG - Raw Gemini output for Pierce College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Brent Freeman",
+"title": "Head Coach",
+"email": "bfreeman@pierce.ctc.edu",
+"phone": "2536513677",
+"twitter": null
+},
+{
+"name": "Lewis Santos",
+"title": "Assistant Coach",
+"email": "lsantos@pierce.ctc.edu",
+"phone": "2538643316",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:54,456 - INFO - Raw Gemini output for Pierce College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:54,458 - INFO - Tokens used for Pierce College Staff Directory: 17644
+2024-08-04 16:46:54,459 - INFO - Successfully scraped data for Pierce College
+2024-08-04 16:46:54,769 - DEBUG - Raw Gemini output for North Idaho College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Shay Chapman",
+            "title": "Head Softball Coach",
+            "email": "shay.fuson@nic.edu",
+            "phone": "2087697879",
+            "twitter": null
+        },
+        {
+            "name": "Megan Carver",
+            "title": "Assistant Softball Coach",
+            "email": "megan.carver@nic.edu",
+            "phone": "2087697830",
+            "twitter": null
+        }
+    ]
+}
+```
+2024-08-04 16:46:54,775 - INFO - Raw Gemini output for North Idaho College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:54,782 - INFO - Tokens used for North Idaho College Staff Directory: 16485
+2024-08-04 16:46:54,790 - INFO - Successfully scraped data for North Idaho College
+2024-08-04 16:46:55,704 - INFO - Body HTML content for Shoreline Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:46:57,906 - DEBUG - Raw Gemini output for Community Colleges of Spokane:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Terry McIntyre",
+"title": "Instructor",
+"email": "Terry.McIntyre@sfcc.spokane.edu",
+"phone": "509-533-3690",
+"twitter": null
+},
+{
+"name": "Lindsie Scholwinski",
+"title": "Instructor",
+"email": "Lindsie.Scholwinski@sfcc.spokane.edu",
+"phone": "509-533-3649",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:46:57,908 - INFO - Raw Gemini output for Community Colleges of Spokane saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:46:57,909 - INFO - Tokens used for Community Colleges of Spokane Staff Directory: 45513
+2024-08-04 16:46:57,909 - INFO - Successfully scraped data for Community Colleges of Spokane
+2024-08-04 16:46:57,943 - INFO - Body HTML content for Skagit Valley College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:47:00,640 - INFO - Body HTML content for Southwestern Oregon Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:47:03,942 - INFO - Body HTML content for Treasure Valley Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:47:06,310 - INFO - Body HTML content for Walla Walla Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:47:08,568 - INFO - Body HTML content for Wenatchee Valley College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:47:10,913 - INFO - Body HTML content for Yakima Valley College saved to coaches_raw_gemini_outputs\JUCO - NWAC_body_html_contents.txt
+2024-08-04 16:47:14,462 - DEBUG - Raw Gemini output for Mt. Hood Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Brittany Hendrickson",
+"title": "Head Coach",
+"email": "brittany.hendrickson@mhcc.edu",
+"phone": "503-491-7122",
+"twitter": null
+},
+{
+"name": "Taylor Gould",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Kayla Grahn",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Rian Snowadski",
+"title": "Volunteer Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:14,466 - INFO - Raw Gemini output for Mt. Hood Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:14,468 - INFO - Tokens used for Mt. Hood Community College Staff Directory: 16017
+2024-08-04 16:47:14,468 - INFO - Successfully scraped data for Mt. Hood Community College
+2024-08-04 16:47:14,736 - DEBUG - Raw Gemini output for Shoreline Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Crystelle Fischer",
+"title": "Head Coach",
+"email": "cfischer@shoreline.edu",
+"phone": "2065464746",
+"twitter": null
+},
+{
+"name": "Heidi Aarestad",
+"title": "Asst. Coach",
+"email": "haarestad@shoreline.edu",
+"phone": "4253432273",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:14,739 - INFO - Raw Gemini output for Shoreline Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:14,741 - INFO - Tokens used for Shoreline Community College Staff Directory: 16305
+2024-08-04 16:47:14,741 - INFO - Successfully scraped data for Shoreline Community College
+2024-08-04 16:47:18,120 - DEBUG - Raw Gemini output for Walla Walla Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Logan Parker",
+"title": "Head Softball Coach",
+"email": "logan.parker@wwcc.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Abby Giles",
+"title": "Assistant Softball Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:18,127 - INFO - Raw Gemini output for Walla Walla Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:18,130 - INFO - Tokens used for Walla Walla Community College Staff Directory: 17346
+2024-08-04 16:47:18,131 - INFO - Successfully scraped data for Walla Walla Community College
+2024-08-04 16:47:18,763 - DEBUG - Raw Gemini output for Treasure Valley Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Gordy Ogawa",
+"title": "Head Coach",
+"email": "gogawa@tvcc.cc",
+"phone": "2087398748",
+"twitter": null
+},
+{
+"name": "Rick Moeller",
+"title": "Assistant Coach",
+"email": null,
+"phone": "2087410096",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:18,766 - INFO - Raw Gemini output for Treasure Valley Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:18,769 - INFO - Tokens used for Treasure Valley Community College Staff Directory: 18662
+2024-08-04 16:47:18,769 - INFO - Successfully scraped data for Treasure Valley Community College
+2024-08-04 16:47:19,199 - DEBUG - Raw Gemini output for Wenatchee Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Iris Rodriguez",
+"title": "Head Softball Coach",
+"email": "irodriguez2@wvc.edu",
+"phone": "5096826851",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:19,201 - INFO - Raw Gemini output for Wenatchee Valley College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:19,203 - INFO - Tokens used for Wenatchee Valley College Staff Directory: 24928
+2024-08-04 16:47:19,204 - INFO - Successfully scraped data for Wenatchee Valley College
+2024-08-04 16:47:24,440 - DEBUG - Raw Gemini output for Yakima Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Jason Weatherley",
+"title": "Head Coach",
+"email": "jweatherley@yvcc.edu",
+"phone": "509-574-4725",
+"twitter": null
+},
+{
+"name": "Dayna Colby",
+"title": "Assistant Coach",
+"email": "dcolby@yvcc.edu",
+"phone": "509-574-4725",
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:24,447 - INFO - Raw Gemini output for Yakima Valley College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:24,449 - INFO - Tokens used for Yakima Valley College Staff Directory: 52177
+2024-08-04 16:47:24,451 - INFO - Successfully scraped data for Yakima Valley College
+2024-08-04 16:47:26,499 - DEBUG - Raw Gemini output for Skagit Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Brooke Writer",
+"title": "Head Softball Coach",
+"email": "Brooke.Writer@skagit.edu",
+"phone": "3604167686",
+"twitter": null
+},
+{
+"name": "Kaitlyn Rosenburg",
+"title": "Asst. Softball Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Kaylee Lamphiear",
+"title": "Vol. Asst. Softball Coach",
+"email": "kaylee.lamphiear@skagit.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Kortney Hiatt",
+"title": "Vol. Asst. Softball Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:26,506 - INFO - Raw Gemini output for Skagit Valley College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:26,512 - INFO - Tokens used for Skagit Valley College Staff Directory: 43241
+2024-08-04 16:47:26,514 - INFO - Successfully scraped data for Skagit Valley College
+2024-08-04 16:47:35,132 - DEBUG - Raw Gemini output for Southwestern Oregon Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Bri  Benoit",
+"title": "Head Coach",
+"email": "brianna.benoit@socc.edu",
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+2024-08-04 16:47:35,133 - INFO - Raw Gemini output for Southwestern Oregon Community College saved to coaches_raw_gemini_outputs\JUCO - NWAC_raw_gemini_outputs.txt
+2024-08-04 16:47:35,134 - INFO - Tokens used for Southwestern Oregon Community College Staff Directory: 116464
+2024-08-04 16:47:35,135 - INFO - Successfully scraped data for Southwestern Oregon Community College
+2024-08-04 16:47:35,135 - INFO - 
+Results for JUCO - NWAC - Staff Directory:
+2024-08-04 16:47:35,135 - INFO - Successful scrapes: 26
+2024-08-04 16:47:35,136 - INFO - Failed scrapes: 0
+2024-08-04 16:47:35,136 - INFO - Tokens used: 798363
+2024-08-04 16:47:35,141 - INFO - 
+Total tokens used for JUCO - NWAC: 798363
+2024-08-04 16:47:35,141 - INFO - 
+Total tokens used across all sheets: 798363
+2024-08-04 16:47:35,144 - INFO - Total execution time: 0:01:33.913251

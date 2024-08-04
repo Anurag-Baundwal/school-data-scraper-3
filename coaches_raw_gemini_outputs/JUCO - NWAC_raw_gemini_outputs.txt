@@ -1,0 +1,694 @@
+Raw Gemini output for Chemeketa Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Chelsea Qualls",
+"title": "Head Coach",
+"email": null,
+"phone": "5039494701",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Clackamas Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Jessica Buel",
+"title": "Softball Head Coach",
+"email": "jessicab@clackamas.edu",
+"phone": "503-594-3602",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Bellevue College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Annie Lockwood",
+"title": "Head Coach",
+"email": "annie.lockwood@bellevuecollege.edu",
+"phone": "6023630767",
+"twitter": null
+},
+{
+"name": null,
+"title": "Asst. Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": null,
+"title": "Asst. Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": null,
+"title": "Asst. Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Douglas College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Robin Bridge",
+            "title": "Interim Head Coach",
+            "email": "rbridge1@douglascollege.ca",
+            "phone": null,
+            "twitter": null
+        },
+        {
+            "name": "Jordan Britten-Yung",
+            "title": "Assistant Coach",
+            "email": null,
+            "phone": null,
+            "twitter": null
+        },
+        {
+            "name": "Chris Bridge",
+            "title": "Assistant Coach",
+            "email": null,
+            "phone": null,
+            "twitter": null
+        }
+    ]
+}
+```
+
+Raw Gemini output for Everett Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Randy Smith",
+"title": "Head Coach",
+"email": "rsmith@everettcc.edu",
+"phone": "4253889329",
+"twitter": null
+},
+{
+"name": "Rick Smith",
+"title": "Assistant Coach",
+"email": "rismith@everettcc.edu",
+"phone": "4253889329",
+"twitter": null
+},
+{
+"name": "Dennis Mallory",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Blue Mountain Community College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Danyelle Huber",
+            "title": "Assistant Softball Coach",
+            "email": null,
+            "phone": null,
+            "twitter": null
+        },
+        {
+            "name": "Now Hiring",
+            "title": "Head Softball Coach",
+            "email": "athletics@bluecc.edu",
+            "phone": null,
+            "twitter": null
+        }
+    ]
+}
+```
+
+Raw Gemini output for Edmonds College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Antionette Watson",
+"title": "Head Coach",
+"email": "antionette.watson@edmonds.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Audrey Rausch",
+"title": "Assistant Coach",
+"email": "audrey.rausch@edmonds.edu",
+"phone": "206.607.7123",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Centralia College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Kevin Slorey",
+"title": "Head Coach",
+"email": "slorey2@comcast.net",
+"phone": "3602691930",
+"twitter": null
+},
+{
+"name": "Kayla Hoke",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Abby Russell",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Mackenzie Wasson",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Big Bend Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Kiera Broehl",
+"title": "Head Softball Coach",
+"email": "KieraB@BigBend.edu",
+"phone": "5097932446",
+"twitter": null
+},
+{
+"name": "Paige Hightower",
+"title": "Assistant Softball Coach",
+"email": "PaigeH@BigBend.edu",
+"phone": "5097932446",
+"twitter": null
+},
+{
+"name": "Alexa Moser",
+"title": "Assistant Softball Coach",
+"email": "AlexaM@BigBend.edu",
+"phone": "5097932439",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Olympic College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Adia Roberts",
+            "title": "Assistant Coach",
+            "email": "aroberts@olympic.edu",
+            "phone": null,
+            "twitter": null
+        }
+    ]
+}
+```
+
+Raw Gemini output for Lower Columbia College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Traci Fuller",
+"title": "Head Coach",
+"email": "tfuller@lowercolumbia.edu",
+"phone": "3604422482",
+"twitter": "LCCdevilsSB"
+},
+{
+"name": "Dave Andrew",
+"title": "Assistant Coach/Recruiting Coordinator",
+"email": "dandrew@lowercolumbia.edu",
+"phone": "3607515575",
+"twitter": "DaveAndrew_LCC"
+}
+]
+}
+```
+
+Raw Gemini output for Columbia Basin College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Montessa Califano",
+"title": "Head Coach",
+"email": "mcalifano@columbiabasin.edu",
+"phone": "5095424460",
+"twitter": null
+},
+{
+"name": "Amanda Larsen",
+"title": "Assistant Coach",
+"email": "alarsen@columbiabasin.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Joe Cheevers",
+"title": "Assistant Coach",
+"email": "jcheevers@columbiabasin.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Amanda Brown",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Clark College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Ciera Jones",
+"title": "Head Coach",
+"email": "cjones@clark.edu",
+"phone": "5713085061",
+"twitter": null
+},
+{
+"name": "Bryan Blehm",
+"title": "Associate Head Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Carrigan Foster",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Highline College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Kevin  Whitehouse",
+"title": "Interim Head Coach",
+"email": "kwhitehouse@highline.edu",
+"phone": "2063046285",
+"twitter": null
+},
+{
+"name": "Genevieve \"LU\"  Medeiros",
+"title": "Assistant Coach",
+"email": null,
+"phone": "7145989392",
+"twitter": null
+},
+{
+"name": "Winter  Ridgeway",
+"title": "Assistant Coach",
+"email": null,
+"phone": "4254660050",
+"twitter": null
+},
+{
+"name": "Julia  Toone",
+"title": "Assistant Coach",
+"email": null,
+"phone": "2064276981",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Grays Harbor College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Jake White",
+"title": "Head Softball Coach",
+"email": "jacob.white@ghc.edu",
+"phone": "3603536449",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Pierce College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Brent Freeman",
+"title": "Head Coach",
+"email": "bfreeman@pierce.ctc.edu",
+"phone": "2536513677",
+"twitter": null
+},
+{
+"name": "Lewis Santos",
+"title": "Assistant Coach",
+"email": "lsantos@pierce.ctc.edu",
+"phone": "2538643316",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for North Idaho College:
+```json
+{
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+        {
+            "name": "Shay Chapman",
+            "title": "Head Softball Coach",
+            "email": "shay.fuson@nic.edu",
+            "phone": "2087697879",
+            "twitter": null
+        },
+        {
+            "name": "Megan Carver",
+            "title": "Assistant Softball Coach",
+            "email": "megan.carver@nic.edu",
+            "phone": "2087697830",
+            "twitter": null
+        }
+    ]
+}
+```
+
+Raw Gemini output for Community Colleges of Spokane:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Terry McIntyre",
+"title": "Instructor",
+"email": "Terry.McIntyre@sfcc.spokane.edu",
+"phone": "509-533-3690",
+"twitter": null
+},
+{
+"name": "Lindsie Scholwinski",
+"title": "Instructor",
+"email": "Lindsie.Scholwinski@sfcc.spokane.edu",
+"phone": "509-533-3649",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Mt. Hood Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Brittany Hendrickson",
+"title": "Head Coach",
+"email": "brittany.hendrickson@mhcc.edu",
+"phone": "503-491-7122",
+"twitter": null
+},
+{
+"name": "Taylor Gould",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Kayla Grahn",
+"title": "Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Rian Snowadski",
+"title": "Volunteer Assistant Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Shoreline Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Crystelle Fischer",
+"title": "Head Coach",
+"email": "cfischer@shoreline.edu",
+"phone": "2065464746",
+"twitter": null
+},
+{
+"name": "Heidi Aarestad",
+"title": "Asst. Coach",
+"email": "haarestad@shoreline.edu",
+"phone": "4253432273",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Walla Walla Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Logan Parker",
+"title": "Head Softball Coach",
+"email": "logan.parker@wwcc.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Abby Giles",
+"title": "Assistant Softball Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Treasure Valley Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Gordy Ogawa",
+"title": "Head Coach",
+"email": "gogawa@tvcc.cc",
+"phone": "2087398748",
+"twitter": null
+},
+{
+"name": "Rick Moeller",
+"title": "Assistant Coach",
+"email": null,
+"phone": "2087410096",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Wenatchee Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Iris Rodriguez",
+"title": "Head Softball Coach",
+"email": "irodriguez2@wvc.edu",
+"phone": "5096826851",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Yakima Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Jason Weatherley",
+"title": "Head Coach",
+"email": "jweatherley@yvcc.edu",
+"phone": "509-574-4725",
+"twitter": null
+},
+{
+"name": "Dayna Colby",
+"title": "Assistant Coach",
+"email": "dcolby@yvcc.edu",
+"phone": "509-574-4725",
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Skagit Valley College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Brooke Writer",
+"title": "Head Softball Coach",
+"email": "Brooke.Writer@skagit.edu",
+"phone": "3604167686",
+"twitter": null
+},
+{
+"name": "Kaitlyn Rosenburg",
+"title": "Asst. Softball Coach",
+"email": null,
+"phone": null,
+"twitter": null
+},
+{
+"name": "Kaylee Lamphiear",
+"title": "Vol. Asst. Softball Coach",
+"email": "kaylee.lamphiear@skagit.edu",
+"phone": null,
+"twitter": null
+},
+{
+"name": "Kortney Hiatt",
+"title": "Vol. Asst. Softball Coach",
+"email": null,
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+
+Raw Gemini output for Southwestern Oregon Community College:
+```json
+{
+"success": true,
+"reason": null,
+"coachingStaff": [
+{
+"name": "Bri  Benoit",
+"title": "Head Coach",
+"email": "brianna.benoit@socc.edu",
+"phone": null,
+"twitter": null
+}
+]
+}
+```
+

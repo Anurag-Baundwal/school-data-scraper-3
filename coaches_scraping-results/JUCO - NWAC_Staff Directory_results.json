@@ -1,0 +1,722 @@
+[
+  {
+    "school": "Bellevue College",
+    "url": "https://www.bellevuecollege.edu/athletics/department/staff-directory/",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Annie Lockwood",
+        "title": "Head Coach",
+        "email": "annie.lockwood@bellevuecollege.edu",
+        "phone": "6023630767",
+        "twitter": null
+      },
+      {
+        "name": null,
+        "title": "Asst. Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": null,
+        "title": "Asst. Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": null,
+        "title": "Asst. Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7056,
+    "output_tokens": 197,
+    "total_tokens": 7253
+  },
+  {
+    "school": "Big Bend Community College",
+    "url": "https://www.bbccvikings.com/inside-athletics/directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Kiera Broehl",
+        "title": "Head Softball Coach",
+        "email": "KieraB@BigBend.edu",
+        "phone": "5097932446",
+        "twitter": null
+      },
+      {
+        "name": "Paige Hightower",
+        "title": "Assistant Softball Coach",
+        "email": "PaigeH@BigBend.edu",
+        "phone": "5097932446",
+        "twitter": null
+      },
+      {
+        "name": "Alexa Moser",
+        "title": "Assistant Softball Coach",
+        "email": "AlexaM@BigBend.edu",
+        "phone": "5097932439",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17356,
+    "output_tokens": 198,
+    "total_tokens": 17554
+  },
+  {
+    "school": "Blue Mountain Community College",
+    "url": "https://bmcctimberwolves.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Danyelle Huber",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Now Hiring",
+        "title": "Head Softball Coach",
+        "email": "athletics@bluecc.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15748,
+    "output_tokens": 131,
+    "total_tokens": 15879
+  },
+  {
+    "school": "Centralia College",
+    "url": "https://centraliablazers.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Kevin Slorey",
+        "title": "Head Coach",
+        "email": "slorey2@comcast.net",
+        "phone": "3602691930",
+        "twitter": null
+      },
+      {
+        "name": "Kayla Hoke",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Abby Russell",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Mackenzie Wasson",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15634,
+    "output_tokens": 197,
+    "total_tokens": 15831
+  },
+  {
+    "school": "Chemeketa Community College",
+    "url": "https://www.chemeketa.edu/athletics/softball/",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Chelsea Qualls",
+        "title": "Head Coach",
+        "email": null,
+        "phone": "5039494701",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 8395,
+    "output_tokens": 76,
+    "total_tokens": 8471
+  },
+  {
+    "school": "Clackamas Community College",
+    "url": "https://www.clackamascougars.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Jessica Buel",
+        "title": "Softball Head Coach",
+        "email": "jessicab@clackamas.edu",
+        "phone": "503-594-3602",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 6808,
+    "output_tokens": 89,
+    "total_tokens": 6897
+  },
+  {
+    "school": "Clark College",
+    "url": "https://clarkpenguins.com/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Ciera Jones",
+        "title": "Head Coach",
+        "email": "cjones@clark.edu",
+        "phone": "5713085061",
+        "twitter": null
+      },
+      {
+        "name": "Bryan Blehm",
+        "title": "Associate Head Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Carrigan Foster",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 71491,
+    "output_tokens": 160,
+    "total_tokens": 71651
+  },
+  {
+    "school": "Columbia Basin College",
+    "url": "https://cbchawks.com/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Montessa Califano",
+        "title": "Head Coach",
+        "email": "mcalifano@columbiabasin.edu",
+        "phone": "5095424460",
+        "twitter": null
+      },
+      {
+        "name": "Amanda Larsen",
+        "title": "Assistant Coach",
+        "email": "alarsen@columbiabasin.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Joe Cheevers",
+        "title": "Assistant Coach",
+        "email": "jcheevers@columbiabasin.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Amanda Brown",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 58320,
+    "output_tokens": 219,
+    "total_tokens": 58539
+  },
+  {
+    "school": "Community Colleges of Spokane",
+    "url": "https://scc.spokane.edu/Athletics/Inside-Athletics/Coach-Staff-Directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Terry McIntyre",
+        "title": "Instructor",
+        "email": "Terry.McIntyre@sfcc.spokane.edu",
+        "phone": "509-533-3690",
+        "twitter": null
+      },
+      {
+        "name": "Lindsie Scholwinski",
+        "title": "Instructor",
+        "email": "Lindsie.Scholwinski@sfcc.spokane.edu",
+        "phone": "509-533-3649",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 45356,
+    "output_tokens": 157,
+    "total_tokens": 45513
+  },
+  {
+    "school": "Douglas College",
+    "url": "https://douglas.prestosports.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Robin Bridge",
+        "title": "Interim Head Coach",
+        "email": "rbridge1@douglascollege.ca",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Jordan Britten-Yung",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Chris Bridge",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 8589,
+    "output_tokens": 177,
+    "total_tokens": 8766
+  },
+  {
+    "school": "Edmonds College",
+    "url": "https://www.edmondstritons.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Antionette Watson",
+        "title": "Head Coach",
+        "email": "antionette.watson@edmonds.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Audrey Rausch",
+        "title": "Assistant Coach",
+        "email": "audrey.rausch@edmonds.edu",
+        "phone": "206.607.7123",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17127,
+    "output_tokens": 138,
+    "total_tokens": 17265
+  },
+  {
+    "school": "Everett Community College",
+    "url": "https://athletics.everettcc.edu/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Randy Smith",
+        "title": "Head Coach",
+        "email": "rsmith@everettcc.edu",
+        "phone": "4253889329",
+        "twitter": null
+      },
+      {
+        "name": "Rick Smith",
+        "title": "Assistant Coach",
+        "email": "rismith@everettcc.edu",
+        "phone": "4253889329",
+        "twitter": null
+      },
+      {
+        "name": "Dennis Mallory",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 9243,
+    "output_tokens": 175,
+    "total_tokens": 9418
+  },
+  {
+    "school": "Grays Harbor College",
+    "url": "https://ghcathletics.com/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Jake White",
+        "title": "Head Softball Coach",
+        "email": "jacob.white@ghc.edu",
+        "phone": "3603536449",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 61004,
+    "output_tokens": 84,
+    "total_tokens": 61088
+  },
+  {
+    "school": "Highline College",
+    "url": "https://highlineathletics.com/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Kevin  Whitehouse",
+        "title": "Interim Head Coach",
+        "email": "kwhitehouse@highline.edu",
+        "phone": "2063046285",
+        "twitter": null
+      },
+      {
+        "name": "Genevieve \"LU\"  Medeiros",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "7145989392",
+        "twitter": null
+      },
+      {
+        "name": "Winter  Ridgeway",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "4254660050",
+        "twitter": null
+      },
+      {
+        "name": "Julia  Toone",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "2064276981",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 46293,
+    "output_tokens": 238,
+    "total_tokens": 46531
+  },
+  {
+    "school": "Lower Columbia College",
+    "url": "https://lccreddevils.com/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Traci Fuller",
+        "title": "Head Coach",
+        "email": "tfuller@lowercolumbia.edu",
+        "phone": "3604422482",
+        "twitter": "LCCdevilsSB"
+      },
+      {
+        "name": "Dave Andrew",
+        "title": "Assistant Coach/Recruiting Coordinator",
+        "email": "dandrew@lowercolumbia.edu",
+        "phone": "3607515575",
+        "twitter": "DaveAndrew_LCC"
+      }
+    ],
+    "input_tokens": 60720,
+    "output_tokens": 153,
+    "total_tokens": 60873
+  },
+  {
+    "school": "Mt. Hood Community College",
+    "url": "https://www.mhcc.edu/athletics/softball/roster",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Brittany Hendrickson",
+        "title": "Head Coach",
+        "email": "brittany.hendrickson@mhcc.edu",
+        "phone": "503-491-7122",
+        "twitter": null
+      },
+      {
+        "name": "Taylor Gould",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kayla Grahn",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Rian Snowadski",
+        "title": "Volunteer Assistant Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 15812,
+    "output_tokens": 205,
+    "total_tokens": 16017
+  },
+  {
+    "school": "North Idaho College",
+    "url": "https://nicathletics.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Shay Chapman",
+        "title": "Head Softball Coach",
+        "email": "shay.fuson@nic.edu",
+        "phone": "2087697879",
+        "twitter": null
+      },
+      {
+        "name": "Megan Carver",
+        "title": "Assistant Softball Coach",
+        "email": "megan.carver@nic.edu",
+        "phone": "2087697830",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 16325,
+    "output_tokens": 160,
+    "total_tokens": 16485
+  },
+  {
+    "school": "Olympic College",
+    "url": "https://www.olympicrangers.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Adia Roberts",
+        "title": "Assistant Coach",
+        "email": "aroberts@olympic.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 7482,
+    "output_tokens": 83,
+    "total_tokens": 7565
+  },
+  {
+    "school": "Pierce College",
+    "url": "https://www.pierceraiders.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Brent Freeman",
+        "title": "Head Coach",
+        "email": "bfreeman@pierce.ctc.edu",
+        "phone": "2536513677",
+        "twitter": null
+      },
+      {
+        "name": "Lewis Santos",
+        "title": "Assistant Coach",
+        "email": "lsantos@pierce.ctc.edu",
+        "phone": "2538643316",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17503,
+    "output_tokens": 141,
+    "total_tokens": 17644
+  },
+  {
+    "school": "Shoreline Community College",
+    "url": "https://www.shoreline.edu/athletics/directory.aspx",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Crystelle Fischer",
+        "title": "Head Coach",
+        "email": "cfischer@shoreline.edu",
+        "phone": "2065464746",
+        "twitter": null
+      },
+      {
+        "name": "Heidi Aarestad",
+        "title": "Asst. Coach",
+        "email": "haarestad@shoreline.edu",
+        "phone": "4253432273",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 16162,
+    "output_tokens": 143,
+    "total_tokens": 16305
+  },
+  {
+    "school": "Skagit Valley College",
+    "url": "https://athletics.skagit.edu/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Brooke Writer",
+        "title": "Head Softball Coach",
+        "email": "Brooke.Writer@skagit.edu",
+        "phone": "3604167686",
+        "twitter": null
+      },
+      {
+        "name": "Kaitlyn Rosenburg",
+        "title": "Asst. Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kaylee Lamphiear",
+        "title": "Vol. Asst. Softball Coach",
+        "email": "kaylee.lamphiear@skagit.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Kortney Hiatt",
+        "title": "Vol. Asst. Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 43017,
+    "output_tokens": 224,
+    "total_tokens": 43241
+  },
+  {
+    "school": "Southwestern Oregon Community College",
+    "url": "https://swoccathletics.com/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Bri  Benoit",
+        "title": "Head Coach",
+        "email": "brianna.benoit@socc.edu",
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 116387,
+    "output_tokens": 77,
+    "total_tokens": 116464
+  },
+  {
+    "school": "Treasure Valley Community College",
+    "url": "https://www.gochuks.com/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Gordy Ogawa",
+        "title": "Head Coach",
+        "email": "gogawa@tvcc.cc",
+        "phone": "2087398748",
+        "twitter": null
+      },
+      {
+        "name": "Rick Moeller",
+        "title": "Assistant Coach",
+        "email": null,
+        "phone": "2087410096",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 18530,
+    "output_tokens": 132,
+    "total_tokens": 18662
+  },
+  {
+    "school": "Walla Walla Community College",
+    "url": "https://warriors.wwcc.edu/information/directory/index",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Logan Parker",
+        "title": "Head Softball Coach",
+        "email": "logan.parker@wwcc.edu",
+        "phone": null,
+        "twitter": null
+      },
+      {
+        "name": "Abby Giles",
+        "title": "Assistant Softball Coach",
+        "email": null,
+        "phone": null,
+        "twitter": null
+      }
+    ],
+    "input_tokens": 17234,
+    "output_tokens": 112,
+    "total_tokens": 17346
+  },
+  {
+    "school": "Wenatchee Valley College",
+    "url": "https://gowvc.com/staff-directory/staff-department/1",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Iris Rodriguez",
+        "title": "Head Softball Coach",
+        "email": "irodriguez2@wvc.edu",
+        "phone": "5096826851",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 24843,
+    "output_tokens": 85,
+    "total_tokens": 24928
+  },
+  {
+    "school": "Yakima Valley College",
+    "url": "https://goyaks.com/staff-directory",
+    "success": true,
+    "reason": null,
+    "coachingStaff": [
+      {
+        "name": "Jason Weatherley",
+        "title": "Head Coach",
+        "email": "jweatherley@yvcc.edu",
+        "phone": "509-574-4725",
+        "twitter": null
+      },
+      {
+        "name": "Dayna Colby",
+        "title": "Assistant Coach",
+        "email": "dcolby@yvcc.edu",
+        "phone": "509-574-4725",
+        "twitter": null
+      }
+    ],
+    "input_tokens": 52033,
+    "output_tokens": 144,
+    "total_tokens": 52177
+  }
+]

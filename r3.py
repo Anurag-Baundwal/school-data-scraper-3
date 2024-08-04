@@ -72,18 +72,18 @@ class CustomJSONEncoder(json.JSONEncoder):
             return obj.encode('utf-8').decode('unicode_escape')
         return super().default(obj)
 
-def normalize_url(url):
-    # Add https:// if no protocol is specified
-    if not url.startswith(('http://', 'https://')):
-        url = 'https://' + url
+# def normalize_url(url):
+#     # Add https:// if no protocol is specified
+#     if not url.startswith(('http://', 'https://')):
+#         url = 'https://' + url
     
-    # Parse the URL
-    parsed = urlparse(url)
+#     # Parse the URL
+#     parsed = urlparse(url)
     
-    # Reconstruct the URL without trailing slash
-    normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path.rstrip('/')}"
+#     # Reconstruct the URL without trailing slash
+#     normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path.rstrip('/')}"
     
-    return normalized.lower()
+#     return normalized.lower()
 
 async def load_excel_data(file_path):
     try:
@@ -115,7 +115,7 @@ def validate_player_data(players, body_html):
                 # Check if at least two other fields are found near the name
                 name_index = body_html_lowercasecase.find(name_lowercase)
                 if name_index != -1:
-                    surrounding_text = body_html_lowercasecase[max(0, name_index - 10000):min(len(body_html_lowercasecase), name_index + 10000)]
+                    surrounding_text = body_html_lowercasecase[max(0, name_index - 2000):min(len(body_html_lowercasecase), name_index + 10000)]
                     fields_found = sum(1 for field in ['position', 'year', 'hometown', 'highSchool'] 
                                        if player.get(field) and str(player[field]).lower() in surrounding_text)
                     

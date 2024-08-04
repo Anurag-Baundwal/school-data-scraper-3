@@ -15,13 +15,13 @@
     "school": "Big Bend Community College",
     "url": "https://bbccvikings.com/sports/sball/2024-25/roster",
     "success": false,
-    "reason": "Attempt 1: No valid players found after validation; Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
+    "reason": "Attempt 1: No valid players found after validation; Attempt 2: Failed to parse JSON: Expecting property name enclosed in double quotes: line 995 column 40 (char 28986); Attempt 3: Failed to parse JSON: Expecting property name enclosed in double quotes: line 990 column 10 (char 28819)",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 69543,
-    "output_tokens": 12763,
-    "total_tokens": 82306
+    "input_tokens": 69540,
+    "output_tokens": 20857,
+    "total_tokens": 90397
   },
   {
     "school": "Blue Mountain Community College",
@@ -92,21 +92,21 @@
       }
     ],
     "player_count": 6,
-    "input_tokens": 24219,
+    "input_tokens": 24217,
     "output_tokens": 391,
-    "total_tokens": 24610
+    "total_tokens": 24608
   },
   {
     "school": "Chemeketa Community College",
     "url": "https://www.chemeketa.edu/athletics/softball/",
     "success": false,
-    "reason": "Attempt 1: Roster year could not be determined.; Attempt 2: Roster year could not be determined.; Attempt 3: No player data found on the roster page.",
+    "reason": "Attempt 1: No player data found on the page.; Attempt 2: No player data found on the roster page.; Attempt 3: Roster year could not be determined.",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
     "input_tokens": 387051,
-    "output_tokens": 132,
-    "total_tokens": 387183
+    "output_tokens": 137,
+    "total_tokens": 387188
   },
   {
     "school": "Clackamas Community College",
@@ -124,13 +124,13 @@
     "school": "Clark College",
     "url": "https://clarkpenguins.com/sports/softball/roster",
     "success": false,
-    "reason": "Attempt 1: Failed to parse JSON: Unterminated string starting at: line 1095 column 9 (char 20195); Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
+    "reason": "Attempt 1: No valid players found after validation; Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 208752,
-    "output_tokens": 13784,
-    "total_tokens": 222536
+    "input_tokens": 208782,
+    "output_tokens": 7934,
+    "total_tokens": 216716
   },
   {
     "school": "Columbia Basin College",
@@ -269,9 +269,9 @@
       }
     ],
     "player_count": 16,
-    "input_tokens": 91942,
+    "input_tokens": 91975,
     "output_tokens": 982,
-    "total_tokens": 92924
+    "total_tokens": 92957
   },
   {
     "school": "Community Colleges of Spokane",
@@ -426,21 +426,21 @@
       }
     ],
     "player_count": 18,
-    "input_tokens": 13976,
+    "input_tokens": 14022,
     "output_tokens": 1195,
-    "total_tokens": 15171
+    "total_tokens": 15217
   },
   {
     "school": "Douglas College",
     "url": "https://douglascollegeroyals.ca/sports/sball/2024-25/roster",
     "success": false,
-    "reason": "Attempt 1: No valid players found after validation; Attempt 2: No player data found on the roster page.; Attempt 3: No player data found on the roster page.",
+    "reason": "Attempt 1: No player data found on the roster page.; Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 30210,
-    "output_tokens": 136,
-    "total_tokens": 30346
+    "input_tokens": 30201,
+    "output_tokens": 120,
+    "total_tokens": 30321
   },
   {
     "school": "Edmonds College",
@@ -579,21 +579,21 @@
       }
     ],
     "player_count": 13,
-    "input_tokens": 92700,
+    "input_tokens": 92729,
     "output_tokens": 796,
-    "total_tokens": 93496
+    "total_tokens": 93525
   },
   {
     "school": "Highline College",
     "url": "https://highlineathletics.com/sports/softball/roster",
     "success": false,
-    "reason": "Attempt 1: No valid players found after validation; Attempt 2: Failed to parse JSON: Expecting value: line 1128 column 12 (char 21366); Attempt 3: No valid players found after validation",
+    "reason": "Attempt 1: No valid players found after validation; Attempt 2: No valid players found after validation; Attempt 3: No valid players found after validation",
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 128463,
-    "output_tokens": 17012,
-    "total_tokens": 145475
+    "input_tokens": 128298,
+    "output_tokens": 14497,
+    "total_tokens": 142795
   },
   {
     "school": "Lower Columbia College",
@@ -605,7 +605,7 @@
       {
         "name": "Ella Dillon",
         "position": "Outfield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Sumner, WA",
         "highSchool": "Sumner",
         "graduationYear": 2027
@@ -613,7 +613,7 @@
       {
         "name": "Leanna Russell",
         "position": "Infield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Woodland, WA",
         "highSchool": "Woodland",
         "graduationYear": 2027
@@ -621,7 +621,7 @@
       {
         "name": "Sadie Knutson",
         "position": "Pitcher/Infield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Rochester, WA",
         "highSchool": "Rochester",
         "graduationYear": 2027
@@ -629,7 +629,7 @@
       {
         "name": "Maliyah Twitty",
         "position": "Outfield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Pasco, WA",
         "highSchool": "Chiawana",
         "graduationYear": 2027
@@ -637,7 +637,7 @@
       {
         "name": "Allison Baumgart",
         "position": "Infield",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Shelton, WA",
         "highSchool": "Shelton",
         "graduationYear": 2028
@@ -645,7 +645,7 @@
       {
         "name": "Katelyn Swanson",
         "position": "Infield",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Battle Ground, WA",
         "highSchool": "Battle Ground",
         "graduationYear": 2028
@@ -653,7 +653,7 @@
       {
         "name": "Teeghan Reams",
         "position": "Catcher/Pitcher/Infield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Redmond, OR",
         "highSchool": "Ridgeview",
         "graduationYear": 2027
@@ -661,7 +661,7 @@
       {
         "name": "Sawyer Stenson",
         "position": "Catcher / Infield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Pasco, WA",
         "highSchool": "Chiawana",
         "graduationYear": 2027
@@ -669,7 +669,7 @@
       {
         "name": "Karlee VonMoos",
         "position": "Infield",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Adna, WA",
         "highSchool": "Adna",
         "graduationYear": 2028
@@ -677,7 +677,7 @@
       {
         "name": "Bella Aspaas",
         "position": "Infield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Brush Prairie, WA",
         "highSchool": "Hockinson",
         "graduationYear": 2027
@@ -685,7 +685,7 @@
       {
         "name": "Brooklyn Loose",
         "position": "Catcher/Outfield",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Adna, WA",
         "highSchool": "Adna",
         "graduationYear": 2028
@@ -693,7 +693,7 @@
       {
         "name": "Alexis Moore",
         "position": "Pitcher/Utility",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Anchorage, AK",
         "highSchool": "South Anchorage",
         "graduationYear": 2028
@@ -701,7 +701,7 @@
       {
         "name": "Kaydence Mackin",
         "position": "Pitcher/Outfield",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Kelso, WA",
         "highSchool": "Kelso",
         "graduationYear": 2028
@@ -709,7 +709,7 @@
       {
         "name": "Alexis Keaveny",
         "position": "Utility",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Anchorage, AK",
         "highSchool": "South Anchorage",
         "graduationYear": 2028
@@ -717,7 +717,7 @@
       {
         "name": "Joelie Eder",
         "position": "Outfield",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Kennewick, WA",
         "highSchool": "Kamiakin",
         "graduationYear": 2028
@@ -725,7 +725,7 @@
       {
         "name": "Lexi Grumbois",
         "position": "Infield",
-        "year": "Fr.",
+        "year": "Freshman",
         "hometown": "Kelso, WA",
         "highSchool": "Kelso",
         "graduationYear": 2028
@@ -733,7 +733,7 @@
       {
         "name": "Raychel Squibb",
         "position": "Catcher / Infield",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Winlock, WA",
         "highSchool": "Castle Rock",
         "graduationYear": 2027
@@ -741,16 +741,16 @@
       {
         "name": "Alli Heater",
         "position": "Pitcher / First Base",
-        "year": "So.",
+        "year": "Sophomore",
         "hometown": "Yakima, WA",
         "highSchool": "East Valley",
         "graduationYear": 2027
       }
     ],
     "player_count": 18,
-    "input_tokens": 108158,
+    "input_tokens": 108179,
     "output_tokens": 1115,
-    "total_tokens": 109273
+    "total_tokens": 109294
   },
   {
     "school": "Mt. Hood Community College",
@@ -772,9 +772,9 @@
     "rosterYear": null,
     "players": [],
     "player_count": 0,
-    "input_tokens": 79622,
-    "output_tokens": 112,
-    "total_tokens": 79734
+    "input_tokens": 79621,
+    "output_tokens": 116,
+    "total_tokens": 79737
   },
   {
     "school": "Olympic College",
@@ -1030,9 +1030,9 @@
       }
     ],
     "player_count": 15,
-    "input_tokens": 76252,
+    "input_tokens": 76202,
     "output_tokens": 984,
-    "total_tokens": 77236
+    "total_tokens": 77186
   },
   {
     "school": "Southwestern Oregon Community College",
@@ -1203,9 +1203,9 @@
       }
     ],
     "player_count": 20,
-    "input_tokens": 154448,
+    "input_tokens": 154498,
     "output_tokens": 1405,
-    "total_tokens": 155853
+    "total_tokens": 155903
   },
   {
     "school": "Treasure Valley Community College",
@@ -1368,9 +1368,9 @@
       }
     ],
     "player_count": 16,
-    "input_tokens": 70697,
+    "input_tokens": 70745,
     "output_tokens": 939,
-    "total_tokens": 71636
+    "total_tokens": 71684
   },
   {
     "school": "Yakima Valley College",
@@ -1509,8 +1509,8 @@
       }
     ],
     "player_count": 16,
-    "input_tokens": 85928,
-    "output_tokens": 1098,
-    "total_tokens": 87026
+    "input_tokens": 85930,
+    "output_tokens": 965,
+    "total_tokens": 86895
   }
 ]
