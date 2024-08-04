@@ -42,34 +42,6 @@ def log_raw_gemini_output(school_name, raw_output, sheet_name):
 
     logger.info(f"Raw Gemini output for {school_name} saved to {file_path}")
 
-# useless
-def save_body_text(school_name, body_text, sheet_name):
-    # Save body text to file
-    output_dir = "body_texts"
-    os.makedirs(output_dir, exist_ok=True)
-    file_path = os.path.join(output_dir, f"{sheet_name}_body_texts.txt")
-    
-    with open(file_path, "a", encoding="utf-8") as f:
-        f.write(f"Body text for {school_name}:\n")
-        f.write(body_text)
-        f.write("\n\n")  # Add two newlines to separate outputs
-
-    logger.info(f"Body text for {school_name} saved to {file_path}")
-
-# useless
-def save_html_content(school_name, html_content, sheet_name):
-    output_dir = "html_contents"
-    os.makedirs(output_dir, exist_ok=True)
-    file_path = os.path.join(output_dir, f"{sheet_name}_html_contents.txt")
-    
-    with open(file_path, "a", encoding="utf-8") as f:
-        f.write(f"HTML content for {school_name}:\n")
-        f.write(html_content)
-        f.write("\n\n" + "="*50 + "\n\n")  # Add a separator between schools
-
-    logger.info(f"HTML content for {school_name} saved to {file_path}")
-
-
 def save_body_html_content(school_name, body_html, sheet_name):
     output_dir = "body_html_contents"
     os.makedirs(output_dir, exist_ok=True)
@@ -120,58 +92,6 @@ async def load_excel_data(file_path):
     except Exception as e:
         logger.error(f"Error loading Excel file: {e}")
         return None
-
-# def validate_player_data(players, body_text):
-#     valid_players = []
-#     for player in players:
-#         # Check if player name exists and is not None before calling lower()
-#         if player.get('name') and body_text:
-#             # Check if at least 70% of the player's name is found in the body text
-#             if fuzz.partial_ratio(player['name'].lower(), body_text.lower()) >= 85:
-#                 # Check if at least two other fields are found near the name
-#                 name_index = body_text.lower().find(player['name'].lower())
-#                 if name_index != -1:
-#                     surrounding_text = body_text[max(0, name_index - 10000):min(len(body_text), name_index + 10000)]
-#                     fields_found = sum(1 for field in ['position', 'year', 'hometown', 'highSchool'] 
-#                                        if player.get(field) and player[field].lower() in surrounding_text.lower())
-#                     if fields_found >= 2:
-#                         valid_players.append(player)
-#         else: 
-#             print(f"Player has no name. Data: {player}")
-#     return valid_players
-
-# def validate_player_data(players, body_text): #v2
-#     valid_players = []
-#     for player in players:
-#         if player.get('name') and body_text:
-#             # Log the fuzzy match ratio for debugging
-#             match_ratio = fuzz.partial_ratio(player['name'].lower(), body_text.lower())
-#             logger.debug(f"Fuzzy match ratio for {player['name']}: {match_ratio}")
-
-#             if match_ratio >= 85:
-#                 # Check if at least two other fields are found near the name
-#                 name_index = body_text.lower().find(player['name'].lower())
-#                 if name_index != -1:
-#                     surrounding_text = body_text[max(0, name_index - 10000):min(len(body_text), name_index + 10000)]
-#                     fields_found = sum(1 for field in ['position', 'year', 'hometown', 'highSchool'] 
-#                                        if player.get(field) and player[field].lower() in surrounding_text.lower())
-                    
-#                     # Log the number of fields found for debugging
-#                     logger.debug(f"Fields found for {player['name']}: {fields_found}")
-
-#                     if fields_found >= 2:
-#                         valid_players.append(player)
-#                     else:
-#                         logger.debug(f"Player {player['name']} rejected: Only {fields_found} fields found")
-#                 else:
-#                     logger.debug(f"Player {player['name']} rejected: Name not found in body text")
-#             else:
-#                 logger.debug(f"Player {player['name']} rejected: Fuzzy match ratio below threshold")
-#         else:
-#             logger.debug(f"Player rejected: Missing name or body text. Player data: {player}")
-    
-#     logger.info(f"Total players: {len(players)}, Valid players: {len(valid_players)}")
-#     return valid_players
 
 def validate_player_data(players, body_html):
     valid_players = []
